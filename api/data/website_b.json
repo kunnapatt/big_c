@@ -1,0 +1,7002 @@
+[
+    {
+        "name": "Phone_Superb",
+        "price": 785.96,
+        "brand": "Fitbit",
+        "model": "Model_5",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Watch_Best",
+        "price": 538.2,
+        "brand": "Adidas",
+        "model": "Model_7",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Fantastic_Toy",
+        "price": 317.81,
+        "brand": "Maybelline",
+        "model": "Model_9",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Pet Supply_Superb",
+        "price": 419.25,
+        "brand": "BMW",
+        "model": "Model_8",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Superb_Pet Supply",
+        "price": 685.88,
+        "brand": "Apple",
+        "model": "Model_3",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Cool_Laptop",
+        "price": 725.98,
+        "brand": "Maybelline",
+        "model": "Model_2",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Cool_Shoes",
+        "price": 716.03,
+        "brand": "LEGO",
+        "model": "Model_1",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Awesome_Toy",
+        "price": 865.15,
+        "brand": "AmazonBasics",
+        "model": "Model_1",
+        "category": "Automotive"
+    },
+    {
+        "name": "Tool_Fantastic",
+        "price": 683.89,
+        "brand": "Sony",
+        "model": "Model_8",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Tool_Cool",
+        "price": 740.25,
+        "brand": "Samsung",
+        "model": "Model_9",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Camera_Best",
+        "price": 768.69,
+        "brand": "Samsung",
+        "model": "Model_4",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Awesome_Tool",
+        "price": 951.87,
+        "brand": "Samsung",
+        "model": "Model_7",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Fantastic_Phone",
+        "price": 440.06,
+        "brand": "AmazonBasics",
+        "model": "Model_2",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Tool_Cool",
+        "price": 50.52,
+        "brand": "Levi's",
+        "model": "Model_8",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Awesome_Phone",
+        "price": 536.4,
+        "brand": "BMW",
+        "model": "Model_2",
+        "category": "Automotive"
+    },
+    {
+        "name": "Shoes_Cool",
+        "price": 774.85,
+        "brand": "Amazon Kindle",
+        "model": "Model_8",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Cool_Laptop",
+        "price": 270.85,
+        "brand": "AmazonBasics",
+        "model": "Model_9",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Headphones_Best",
+        "price": 915.49,
+        "brand": "Rolex",
+        "model": "Model_4",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Dress_Superb",
+        "price": 169.39,
+        "brand": "AmazonBasics",
+        "model": "Model_8",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Cool_Watch",
+        "price": 361.39,
+        "brand": "Amazon Kindle",
+        "model": "Model_1",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Superb_Phone",
+        "price": 874.51,
+        "brand": "Adidas",
+        "model": "Model_1",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Cool_Shirt",
+        "price": 81.58,
+        "brand": "Amazon Kindle",
+        "model": "Model_9",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Dress_Cool",
+        "price": 513.54,
+        "brand": "BMW",
+        "model": "Model_4",
+        "category": "Electronics"
+    },
+    {
+        "name": "Awesome_Watch",
+        "price": 329.31,
+        "brand": "Maybelline",
+        "model": "Model_1",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Headphones_Awesome",
+        "price": 134.9,
+        "brand": "Apple",
+        "model": "Model_4",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Watch_Cool",
+        "price": 59.62,
+        "brand": "Fitbit",
+        "model": "Model_1",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Book_Cool",
+        "price": 994.05,
+        "brand": "Rolex",
+        "model": "Model_10",
+        "category": "Electronics"
+    },
+    {
+        "name": "Awesome_Tool",
+        "price": 239.38,
+        "brand": "Samsung",
+        "model": "Model_10",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Superb_Camera",
+        "price": 204.04,
+        "brand": "Maybelline",
+        "model": "Model_2",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Shoes_Awesome",
+        "price": 17.43,
+        "brand": "Sony",
+        "model": "Model_7",
+        "category": "Automotive"
+    },
+    {
+        "name": "Cool_Laptop",
+        "price": 208.9,
+        "brand": "Adidas",
+        "model": "Model_9",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Camera_Cool",
+        "price": 687.14,
+        "brand": "Samsung",
+        "model": "Model_7",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Pet Supply_Awesome",
+        "price": 907.9,
+        "brand": "Nike",
+        "model": "Model_7",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Fantastic_Watch",
+        "price": 993.18,
+        "brand": "LEGO",
+        "model": "Model_10",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Book_Best",
+        "price": 290.22,
+        "brand": "LEGO",
+        "model": "Model_8",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Shoes_Superb",
+        "price": 40.49,
+        "brand": "Nike",
+        "model": "Model_5",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Awesome_Shirt",
+        "price": 848.44,
+        "brand": "Levi's",
+        "model": "Model_7",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Phone_Awesome",
+        "price": 731.6,
+        "brand": "BMW",
+        "model": "Model_3",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Best_Camera",
+        "price": 851.69,
+        "brand": "Amazon Kindle",
+        "model": "Model_5",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Laptop_Awesome",
+        "price": 29.82,
+        "brand": "AmazonBasics",
+        "model": "Model_5",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Superb_Watch",
+        "price": 159.97,
+        "brand": "LEGO",
+        "model": "Model_7",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Best_Shirt",
+        "price": 171.99,
+        "brand": "BMW",
+        "model": "Model_8",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Laptop_Fantastic",
+        "price": 765.53,
+        "brand": "Sony",
+        "model": "Model_4",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Pet Supply_Awesome",
+        "price": 74.91,
+        "brand": "Apple",
+        "model": "Model_1",
+        "category": "Electronics"
+    },
+    {
+        "name": "Awesome_Laptop",
+        "price": 953.75,
+        "brand": "AmazonBasics",
+        "model": "Model_9",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Laptop_Best",
+        "price": 623.65,
+        "brand": "Levi's",
+        "model": "Model_5",
+        "category": "Electronics"
+    },
+    {
+        "name": "Fantastic_Shoes",
+        "price": 539.15,
+        "brand": "Apple",
+        "model": "Model_7",
+        "category": "Electronics"
+    },
+    {
+        "name": "Best_Phone",
+        "price": 134.24,
+        "brand": "Apple",
+        "model": "Model_2",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Book_Cool",
+        "price": 118.59,
+        "brand": "Samsung",
+        "model": "Model_4",
+        "category": "Electronics"
+    },
+    {
+        "name": "Watch_Awesome",
+        "price": 869.36,
+        "brand": "Maybelline",
+        "model": "Model_7",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Best_Shirt",
+        "price": 159.19,
+        "brand": "Rolex",
+        "model": "Model_10",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Watch_Superb",
+        "price": 729.49,
+        "brand": "Nike",
+        "model": "Model_3",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Best_Laptop",
+        "price": 181.85,
+        "brand": "LEGO",
+        "model": "Model_10",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Superb_Camera",
+        "price": 561.14,
+        "brand": "Sony",
+        "model": "Model_3",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Cool_Tool",
+        "price": 562.98,
+        "brand": "Samsung",
+        "model": "Model_9",
+        "category": "Automotive"
+    },
+    {
+        "name": "Awesome_Shoes",
+        "price": 110.39,
+        "brand": "Sony",
+        "model": "Model_6",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Best_Laptop",
+        "price": 566.28,
+        "brand": "Nike",
+        "model": "Model_1",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Toy_Awesome",
+        "price": 502.06,
+        "brand": "Rolex",
+        "model": "Model_4",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Watch_Awesome",
+        "price": 660.72,
+        "brand": "LEGO",
+        "model": "Model_3",
+        "category": "Automotive"
+    },
+    {
+        "name": "Camera_Best",
+        "price": 328.72,
+        "brand": "Adidas",
+        "model": "Model_10",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Awesome_Laptop",
+        "price": 401.07,
+        "brand": "Adidas",
+        "model": "Model_5",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Best_Shirt",
+        "price": 684.24,
+        "brand": "Samsung",
+        "model": "Model_9",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Laptop_Superb",
+        "price": 80.12,
+        "brand": "Rolex",
+        "model": "Model_1",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Superb_Toy",
+        "price": 814.24,
+        "brand": "Amazon Kindle",
+        "model": "Model_1",
+        "category": "Electronics"
+    },
+    {
+        "name": "Cool_Laptop",
+        "price": 295.71,
+        "brand": "Samsung",
+        "model": "Model_7",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Watch_Awesome",
+        "price": 847.58,
+        "brand": "AmazonBasics",
+        "model": "Model_7",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Tool_Superb",
+        "price": 274.44,
+        "brand": "AmazonBasics",
+        "model": "Model_2",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Headphones_Cool",
+        "price": 564.68,
+        "brand": "Samsung",
+        "model": "Model_9",
+        "category": "Automotive"
+    },
+    {
+        "name": "Awesome_Watch",
+        "price": 627.52,
+        "brand": "Apple",
+        "model": "Model_7",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Cool_Dress",
+        "price": 690.02,
+        "brand": "Fitbit",
+        "model": "Model_1",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Cool_Phone",
+        "price": 959.41,
+        "brand": "Fitbit",
+        "model": "Model_2",
+        "category": "Automotive"
+    },
+    {
+        "name": "Shoes_Best",
+        "price": 588.45,
+        "brand": "Fitbit",
+        "model": "Model_3",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Toy_Best",
+        "price": 859.5,
+        "brand": "BMW",
+        "model": "Model_6",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Watch_Cool",
+        "price": 286.02,
+        "brand": "Rolex",
+        "model": "Model_5",
+        "category": "Electronics"
+    },
+    {
+        "name": "Pet Supply_Best",
+        "price": 158.84,
+        "brand": "BMW",
+        "model": "Model_2",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Superb_Dress",
+        "price": 379.91,
+        "brand": "AmazonBasics",
+        "model": "Model_6",
+        "category": "Automotive"
+    },
+    {
+        "name": "Best_Book",
+        "price": 430.31,
+        "brand": "Levi's",
+        "model": "Model_4",
+        "category": "Automotive"
+    },
+    {
+        "name": "Pet Supply_Fantastic",
+        "price": 521.35,
+        "brand": "Sony",
+        "model": "Model_2",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Toy_Cool",
+        "price": 239.45,
+        "brand": "LEGO",
+        "model": "Model_8",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Pet Supply_Fantastic",
+        "price": 44.48,
+        "brand": "BMW",
+        "model": "Model_4",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Best_Camera",
+        "price": 167.48,
+        "brand": "Adidas",
+        "model": "Model_3",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Awesome_Phone",
+        "price": 393.09,
+        "brand": "Sony",
+        "model": "Model_10",
+        "category": "Automotive"
+    },
+    {
+        "name": "Best_Toy",
+        "price": 647.43,
+        "brand": "Adidas",
+        "model": "Model_8",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Superb_Pet Supply",
+        "price": 366.06,
+        "brand": "LEGO",
+        "model": "Model_4",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Awesome_Toy",
+        "price": 891.15,
+        "brand": "AmazonBasics",
+        "model": "Model_1",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Dress_Superb",
+        "price": 736.0,
+        "brand": "Samsung",
+        "model": "Model_6",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Shirt_Fantastic",
+        "price": 411.26,
+        "brand": "Nike",
+        "model": "Model_8",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Superb_Camera",
+        "price": 406.69,
+        "brand": "Levi's",
+        "model": "Model_4",
+        "category": "Electronics"
+    },
+    {
+        "name": "Awesome_Watch",
+        "price": 530.7,
+        "brand": "Apple",
+        "model": "Model_9",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Pet Supply_Fantastic",
+        "price": 199.4,
+        "brand": "AmazonBasics",
+        "model": "Model_1",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Superb_Camera",
+        "price": 729.69,
+        "brand": "Fitbit",
+        "model": "Model_4",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Shoes_Superb",
+        "price": 435.21,
+        "brand": "Apple",
+        "model": "Model_3",
+        "category": "Electronics"
+    },
+    {
+        "name": "Superb_Shirt",
+        "price": 841.04,
+        "brand": "Apple",
+        "model": "Model_8",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Awesome_Camera",
+        "price": 544.11,
+        "brand": "Levi's",
+        "model": "Model_10",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Superb_Phone",
+        "price": 196.82,
+        "brand": "Levi's",
+        "model": "Model_5",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Toy_Best",
+        "price": 777.08,
+        "brand": "Nike",
+        "model": "Model_8",
+        "category": "Automotive"
+    },
+    {
+        "name": "Fantastic_Laptop",
+        "price": 887.94,
+        "brand": "Maybelline",
+        "model": "Model_7",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Pet Supply_Awesome",
+        "price": 655.38,
+        "brand": "Samsung",
+        "model": "Model_7",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Shoes_Fantastic",
+        "price": 608.7,
+        "brand": "Rolex",
+        "model": "Model_3",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Headphones_Fantastic",
+        "price": 898.69,
+        "brand": "Nike",
+        "model": "Model_7",
+        "category": "Automotive"
+    },
+    {
+        "name": "Awesome_Pet Supply",
+        "price": 399.97,
+        "brand": "AmazonBasics",
+        "model": "Model_3",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Awesome_Tool",
+        "price": 193.77,
+        "brand": "LEGO",
+        "model": "Model_8",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Best_Laptop",
+        "price": 336.75,
+        "brand": "Maybelline",
+        "model": "Model_8",
+        "category": "Automotive"
+    },
+    {
+        "name": "Superb_Camera",
+        "price": 638.79,
+        "brand": "LEGO",
+        "model": "Model_3",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Tool_Cool",
+        "price": 35.92,
+        "brand": "Fitbit",
+        "model": "Model_3",
+        "category": "Automotive"
+    },
+    {
+        "name": "Watch_Best",
+        "price": 628.11,
+        "brand": "Maybelline",
+        "model": "Model_1",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Awesome_Dress",
+        "price": 763.99,
+        "brand": "Maybelline",
+        "model": "Model_9",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Book_Best",
+        "price": 358.46,
+        "brand": "BMW",
+        "model": "Model_6",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Superb_Book",
+        "price": 510.33,
+        "brand": "Levi's",
+        "model": "Model_7",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Fantastic_Headphones",
+        "price": 560.15,
+        "brand": "LEGO",
+        "model": "Model_9",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Toy_Superb",
+        "price": 261.98,
+        "brand": "LEGO",
+        "model": "Model_9",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Laptop_Superb",
+        "price": 467.09,
+        "brand": "Adidas",
+        "model": "Model_2",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Cool_Dress",
+        "price": 556.94,
+        "brand": "Samsung",
+        "model": "Model_4",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Toy_Best",
+        "price": 333.36,
+        "brand": "Apple",
+        "model": "Model_10",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Cool_Laptop",
+        "price": 680.24,
+        "brand": "Rolex",
+        "model": "Model_6",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Superb_Watch",
+        "price": 778.23,
+        "brand": "Adidas",
+        "model": "Model_6",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Awesome_Camera",
+        "price": 829.83,
+        "brand": "Samsung",
+        "model": "Model_7",
+        "category": "Automotive"
+    },
+    {
+        "name": "Phone_Cool",
+        "price": 72.86,
+        "brand": "Maybelline",
+        "model": "Model_5",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Best_Toy",
+        "price": 48.89,
+        "brand": "Adidas",
+        "model": "Model_1",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Awesome_Pet Supply",
+        "price": 864.39,
+        "brand": "Samsung",
+        "model": "Model_4",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Headphones_Best",
+        "price": 810.1,
+        "brand": "Maybelline",
+        "model": "Model_2",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Fantastic_Phone",
+        "price": 680.17,
+        "brand": "Maybelline",
+        "model": "Model_5",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Fantastic_Phone",
+        "price": 593.82,
+        "brand": "Adidas",
+        "model": "Model_5",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Fantastic_Laptop",
+        "price": 66.52,
+        "brand": "AmazonBasics",
+        "model": "Model_8",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Dress_Superb",
+        "price": 310.56,
+        "brand": "BMW",
+        "model": "Model_6",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Best_Watch",
+        "price": 95.06,
+        "brand": "Rolex",
+        "model": "Model_7",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Pet Supply_Awesome",
+        "price": 201.86,
+        "brand": "Rolex",
+        "model": "Model_3",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Shirt_Fantastic",
+        "price": 149.87,
+        "brand": "Rolex",
+        "model": "Model_3",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Dress_Fantastic",
+        "price": 710.49,
+        "brand": "Adidas",
+        "model": "Model_6",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Pet Supply_Awesome",
+        "price": 256.86,
+        "brand": "AmazonBasics",
+        "model": "Model_3",
+        "category": "Automotive"
+    },
+    {
+        "name": "Fantastic_Book",
+        "price": 22.21,
+        "brand": "Levi's",
+        "model": "Model_5",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Awesome_Laptop",
+        "price": 908.75,
+        "brand": "Sony",
+        "model": "Model_7",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Pet Supply_Fantastic",
+        "price": 893.91,
+        "brand": "Amazon Kindle",
+        "model": "Model_3",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Awesome_Headphones",
+        "price": 826.64,
+        "brand": "Samsung",
+        "model": "Model_3",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Fantastic_Phone",
+        "price": 14.77,
+        "brand": "Nike",
+        "model": "Model_9",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Fantastic_Toy",
+        "price": 230.97,
+        "brand": "Maybelline",
+        "model": "Model_7",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Tool_Superb",
+        "price": 366.49,
+        "brand": "Maybelline",
+        "model": "Model_1",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Superb_Book",
+        "price": 787.04,
+        "brand": "Adidas",
+        "model": "Model_8",
+        "category": "Electronics"
+    },
+    {
+        "name": "Pet Supply_Cool",
+        "price": 964.86,
+        "brand": "Apple",
+        "model": "Model_7",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Dress_Best",
+        "price": 625.59,
+        "brand": "Nike",
+        "model": "Model_2",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Pet Supply_Best",
+        "price": 382.52,
+        "brand": "Samsung",
+        "model": "Model_7",
+        "category": "Automotive"
+    },
+    {
+        "name": "Toy_Awesome",
+        "price": 428.59,
+        "brand": "LEGO",
+        "model": "Model_1",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Superb_Shirt",
+        "price": 807.24,
+        "brand": "Rolex",
+        "model": "Model_3",
+        "category": "Electronics"
+    },
+    {
+        "name": "Awesome_Laptop",
+        "price": 264.92,
+        "brand": "AmazonBasics",
+        "model": "Model_9",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Awesome_Toy",
+        "price": 571.55,
+        "brand": "Rolex",
+        "model": "Model_3",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Awesome_Phone",
+        "price": 564.12,
+        "brand": "BMW",
+        "model": "Model_10",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Pet Supply_Best",
+        "price": 915.73,
+        "brand": "Apple",
+        "model": "Model_8",
+        "category": "Automotive"
+    },
+    {
+        "name": "Watch_Fantastic",
+        "price": 950.9,
+        "brand": "Apple",
+        "model": "Model_5",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Pet Supply_Awesome",
+        "price": 487.64,
+        "brand": "Samsung",
+        "model": "Model_3",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Watch_Fantastic",
+        "price": 582.86,
+        "brand": "Nike",
+        "model": "Model_5",
+        "category": "Electronics"
+    },
+    {
+        "name": "Awesome_Watch",
+        "price": 535.09,
+        "brand": "AmazonBasics",
+        "model": "Model_10",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Cool_Dress",
+        "price": 632.36,
+        "brand": "AmazonBasics",
+        "model": "Model_10",
+        "category": "Electronics"
+    },
+    {
+        "name": "Cool_Phone",
+        "price": 32.76,
+        "brand": "Sony",
+        "model": "Model_7",
+        "category": "Automotive"
+    },
+    {
+        "name": "Cool_Book",
+        "price": 922.65,
+        "brand": "Levi's",
+        "model": "Model_8",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Superb_Pet Supply",
+        "price": 104.58,
+        "brand": "Amazon Kindle",
+        "model": "Model_7",
+        "category": "Automotive"
+    },
+    {
+        "name": "Cool_Book",
+        "price": 286.63,
+        "brand": "Apple",
+        "model": "Model_2",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Dress_Cool",
+        "price": 629.21,
+        "brand": "Adidas",
+        "model": "Model_6",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Cool_Phone",
+        "price": 835.04,
+        "brand": "BMW",
+        "model": "Model_1",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Pet Supply_Best",
+        "price": 128.78,
+        "brand": "Amazon Kindle",
+        "model": "Model_3",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Toy_Awesome",
+        "price": 130.56,
+        "brand": "Maybelline",
+        "model": "Model_6",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Superb_Book",
+        "price": 165.35,
+        "brand": "Adidas",
+        "model": "Model_3",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Fantastic_Camera",
+        "price": 361.46,
+        "brand": "Levi's",
+        "model": "Model_4",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Headphones_Awesome",
+        "price": 496.0,
+        "brand": "Samsung",
+        "model": "Model_8",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Toy_Best",
+        "price": 11.16,
+        "brand": "Samsung",
+        "model": "Model_9",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Shoes_Fantastic",
+        "price": 513.37,
+        "brand": "Samsung",
+        "model": "Model_2",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Laptop_Superb",
+        "price": 321.33,
+        "brand": "Nike",
+        "model": "Model_5",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Tool_Superb",
+        "price": 406.11,
+        "brand": "Fitbit",
+        "model": "Model_2",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Phone_Best",
+        "price": 73.28,
+        "brand": "BMW",
+        "model": "Model_2",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Camera_Best",
+        "price": 503.16,
+        "brand": "AmazonBasics",
+        "model": "Model_1",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Fantastic_Headphones",
+        "price": 944.77,
+        "brand": "BMW",
+        "model": "Model_2",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Book_Best",
+        "price": 25.39,
+        "brand": "Sony",
+        "model": "Model_10",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Cool_Toy",
+        "price": 298.62,
+        "brand": "Fitbit",
+        "model": "Model_4",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Awesome_Tool",
+        "price": 405.91,
+        "brand": "Sony",
+        "model": "Model_9",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Superb_Camera",
+        "price": 881.32,
+        "brand": "Maybelline",
+        "model": "Model_2",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Tool_Superb",
+        "price": 115.06,
+        "brand": "Levi's",
+        "model": "Model_4",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Superb_Pet Supply",
+        "price": 10.13,
+        "brand": "Apple",
+        "model": "Model_6",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Dress_Superb",
+        "price": 423.93,
+        "brand": "Maybelline",
+        "model": "Model_10",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Cool_Phone",
+        "price": 227.46,
+        "brand": "Apple",
+        "model": "Model_6",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Camera_Best",
+        "price": 560.62,
+        "brand": "Levi's",
+        "model": "Model_7",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Shoes_Best",
+        "price": 55.24,
+        "brand": "Samsung",
+        "model": "Model_7",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Awesome_Watch",
+        "price": 494.01,
+        "brand": "LEGO",
+        "model": "Model_2",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Phone_Cool",
+        "price": 783.9,
+        "brand": "Amazon Kindle",
+        "model": "Model_9",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Fantastic_Phone",
+        "price": 259.02,
+        "brand": "Fitbit",
+        "model": "Model_10",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Camera_Best",
+        "price": 158.89,
+        "brand": "BMW",
+        "model": "Model_4",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Fantastic_Tool",
+        "price": 248.62,
+        "brand": "LEGO",
+        "model": "Model_2",
+        "category": "Automotive"
+    },
+    {
+        "name": "Fantastic_Headphones",
+        "price": 161.53,
+        "brand": "Levi's",
+        "model": "Model_3",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Watch_Fantastic",
+        "price": 422.13,
+        "brand": "Maybelline",
+        "model": "Model_7",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Cool_Headphones",
+        "price": 521.66,
+        "brand": "Samsung",
+        "model": "Model_10",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Best_Laptop",
+        "price": 355.41,
+        "brand": "LEGO",
+        "model": "Model_7",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Headphones_Cool",
+        "price": 919.53,
+        "brand": "Nike",
+        "model": "Model_4",
+        "category": "Electronics"
+    },
+    {
+        "name": "Best_Headphones",
+        "price": 851.39,
+        "brand": "Sony",
+        "model": "Model_6",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Headphones_Cool",
+        "price": 90.23,
+        "brand": "Samsung",
+        "model": "Model_10",
+        "category": "Electronics"
+    },
+    {
+        "name": "Camera_Cool",
+        "price": 278.71,
+        "brand": "BMW",
+        "model": "Model_5",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Headphones_Superb",
+        "price": 516.92,
+        "brand": "Maybelline",
+        "model": "Model_2",
+        "category": "Automotive"
+    },
+    {
+        "name": "Book_Best",
+        "price": 852.82,
+        "brand": "Sony",
+        "model": "Model_3",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Dress_Fantastic",
+        "price": 387.8,
+        "brand": "LEGO",
+        "model": "Model_5",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Toy_Fantastic",
+        "price": 516.31,
+        "brand": "Levi's",
+        "model": "Model_8",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Best_Tool",
+        "price": 735.67,
+        "brand": "AmazonBasics",
+        "model": "Model_2",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Toy_Fantastic",
+        "price": 340.16,
+        "brand": "LEGO",
+        "model": "Model_6",
+        "category": "Automotive"
+    },
+    {
+        "name": "Pet Supply_Awesome",
+        "price": 814.56,
+        "brand": "Levi's",
+        "model": "Model_8",
+        "category": "Electronics"
+    },
+    {
+        "name": "Tool_Superb",
+        "price": 68.59,
+        "brand": "AmazonBasics",
+        "model": "Model_4",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Tool_Superb",
+        "price": 25.01,
+        "brand": "Amazon Kindle",
+        "model": "Model_6",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Fantastic_Tool",
+        "price": 207.79,
+        "brand": "Samsung",
+        "model": "Model_4",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Pet Supply_Awesome",
+        "price": 942.8,
+        "brand": "Nike",
+        "model": "Model_10",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Shirt_Cool",
+        "price": 923.52,
+        "brand": "Amazon Kindle",
+        "model": "Model_6",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Cool_Phone",
+        "price": 457.14,
+        "brand": "Amazon Kindle",
+        "model": "Model_8",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Shirt_Fantastic",
+        "price": 477.22,
+        "brand": "BMW",
+        "model": "Model_9",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Shirt_Best",
+        "price": 669.19,
+        "brand": "Samsung",
+        "model": "Model_5",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Shirt_Cool",
+        "price": 376.36,
+        "brand": "Levi's",
+        "model": "Model_6",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Book_Best",
+        "price": 676.89,
+        "brand": "Amazon Kindle",
+        "model": "Model_1",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Toy_Best",
+        "price": 517.19,
+        "brand": "Apple",
+        "model": "Model_3",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Pet Supply_Superb",
+        "price": 616.04,
+        "brand": "LEGO",
+        "model": "Model_3",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Superb_Camera",
+        "price": 617.58,
+        "brand": "Sony",
+        "model": "Model_9",
+        "category": "Electronics"
+    },
+    {
+        "name": "Cool_Dress",
+        "price": 658.55,
+        "brand": "Fitbit",
+        "model": "Model_1",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Awesome_Tool",
+        "price": 356.35,
+        "brand": "AmazonBasics",
+        "model": "Model_3",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Cool_Tool",
+        "price": 659.51,
+        "brand": "Apple",
+        "model": "Model_1",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Superb_Headphones",
+        "price": 489.67,
+        "brand": "Fitbit",
+        "model": "Model_4",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Cool_Headphones",
+        "price": 907.76,
+        "brand": "Nike",
+        "model": "Model_3",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Shoes_Awesome",
+        "price": 528.87,
+        "brand": "Levi's",
+        "model": "Model_8",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Shoes_Awesome",
+        "price": 205.49,
+        "brand": "Rolex",
+        "model": "Model_4",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Toy_Best",
+        "price": 373.52,
+        "brand": "AmazonBasics",
+        "model": "Model_2",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Camera_Best",
+        "price": 63.76,
+        "brand": "Rolex",
+        "model": "Model_9",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Awesome_Shoes",
+        "price": 675.44,
+        "brand": "Fitbit",
+        "model": "Model_8",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Cool_Laptop",
+        "price": 195.12,
+        "brand": "Amazon Kindle",
+        "model": "Model_3",
+        "category": "Automotive"
+    },
+    {
+        "name": "Best_Headphones",
+        "price": 871.36,
+        "brand": "Samsung",
+        "model": "Model_1",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Shirt_Fantastic",
+        "price": 584.6,
+        "brand": "Nike",
+        "model": "Model_7",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Watch_Cool",
+        "price": 458.33,
+        "brand": "Apple",
+        "model": "Model_7",
+        "category": "Electronics"
+    },
+    {
+        "name": "Cool_Book",
+        "price": 727.22,
+        "brand": "Nike",
+        "model": "Model_7",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Awesome_Dress",
+        "price": 678.65,
+        "brand": "Samsung",
+        "model": "Model_4",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Fantastic_Camera",
+        "price": 512.74,
+        "brand": "LEGO",
+        "model": "Model_4",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Fantastic_Toy",
+        "price": 401.02,
+        "brand": "Samsung",
+        "model": "Model_2",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Camera_Cool",
+        "price": 541.86,
+        "brand": "Levi's",
+        "model": "Model_10",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Pet Supply_Awesome",
+        "price": 662.21,
+        "brand": "Nike",
+        "model": "Model_2",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Laptop_Awesome",
+        "price": 996.31,
+        "brand": "Rolex",
+        "model": "Model_4",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Shoes_Awesome",
+        "price": 844.04,
+        "brand": "LEGO",
+        "model": "Model_10",
+        "category": "Electronics"
+    },
+    {
+        "name": "Best_Watch",
+        "price": 852.14,
+        "brand": "Maybelline",
+        "model": "Model_3",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Shoes_Fantastic",
+        "price": 483.33,
+        "brand": "Levi's",
+        "model": "Model_3",
+        "category": "Automotive"
+    },
+    {
+        "name": "Cool_Toy",
+        "price": 422.63,
+        "brand": "Apple",
+        "model": "Model_6",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Fantastic_Shirt",
+        "price": 874.37,
+        "brand": "Sony",
+        "model": "Model_9",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Best_Book",
+        "price": 654.23,
+        "brand": "LEGO",
+        "model": "Model_8",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Book_Awesome",
+        "price": 249.24,
+        "brand": "Nike",
+        "model": "Model_5",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Superb_Laptop",
+        "price": 683.62,
+        "brand": "BMW",
+        "model": "Model_3",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Shirt_Fantastic",
+        "price": 616.79,
+        "brand": "Rolex",
+        "model": "Model_6",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Book_Superb",
+        "price": 709.32,
+        "brand": "Fitbit",
+        "model": "Model_1",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Phone_Best",
+        "price": 401.26,
+        "brand": "Fitbit",
+        "model": "Model_10",
+        "category": "Electronics"
+    },
+    {
+        "name": "Shoes_Cool",
+        "price": 707.82,
+        "brand": "Rolex",
+        "model": "Model_4",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Fantastic_Tool",
+        "price": 459.67,
+        "brand": "Nike",
+        "model": "Model_5",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Pet Supply_Awesome",
+        "price": 572.9,
+        "brand": "Nike",
+        "model": "Model_10",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Dress_Cool",
+        "price": 999.09,
+        "brand": "Adidas",
+        "model": "Model_5",
+        "category": "Electronics"
+    },
+    {
+        "name": "Book_Cool",
+        "price": 940.04,
+        "brand": "Sony",
+        "model": "Model_7",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Superb_Dress",
+        "price": 945.71,
+        "brand": "Maybelline",
+        "model": "Model_8",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Shirt_Superb",
+        "price": 783.99,
+        "brand": "Sony",
+        "model": "Model_3",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Watch_Awesome",
+        "price": 747.94,
+        "brand": "BMW",
+        "model": "Model_9",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Best_Shirt",
+        "price": 801.66,
+        "brand": "Sony",
+        "model": "Model_4",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Superb_Laptop",
+        "price": 814.92,
+        "brand": "Adidas",
+        "model": "Model_8",
+        "category": "Automotive"
+    },
+    {
+        "name": "Pet Supply_Superb",
+        "price": 952.24,
+        "brand": "BMW",
+        "model": "Model_10",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Pet Supply_Awesome",
+        "price": 601.7,
+        "brand": "Sony",
+        "model": "Model_1",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Fantastic_Dress",
+        "price": 194.84,
+        "brand": "AmazonBasics",
+        "model": "Model_5",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Toy_Superb",
+        "price": 546.61,
+        "brand": "Fitbit",
+        "model": "Model_4",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Awesome_Dress",
+        "price": 10.7,
+        "brand": "AmazonBasics",
+        "model": "Model_7",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Awesome_Shirt",
+        "price": 619.13,
+        "brand": "BMW",
+        "model": "Model_9",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Cool_Phone",
+        "price": 87.15,
+        "brand": "Samsung",
+        "model": "Model_10",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Headphones_Superb",
+        "price": 464.52,
+        "brand": "BMW",
+        "model": "Model_6",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Toy_Fantastic",
+        "price": 401.12,
+        "brand": "Rolex",
+        "model": "Model_4",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Cool_Camera",
+        "price": 795.28,
+        "brand": "Samsung",
+        "model": "Model_1",
+        "category": "Electronics"
+    },
+    {
+        "name": "Tool_Cool",
+        "price": 546.11,
+        "brand": "Sony",
+        "model": "Model_2",
+        "category": "Electronics"
+    },
+    {
+        "name": "Cool_Tool",
+        "price": 75.02,
+        "brand": "Nike",
+        "model": "Model_6",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Awesome_Watch",
+        "price": 720.67,
+        "brand": "Maybelline",
+        "model": "Model_2",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Phone_Fantastic",
+        "price": 721.36,
+        "brand": "LEGO",
+        "model": "Model_10",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Pet Supply_Cool",
+        "price": 994.62,
+        "brand": "Sony",
+        "model": "Model_2",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Awesome_Camera",
+        "price": 341.39,
+        "brand": "Amazon Kindle",
+        "model": "Model_6",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Awesome_Toy",
+        "price": 352.33,
+        "brand": "Levi's",
+        "model": "Model_5",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Shoes_Cool",
+        "price": 734.53,
+        "brand": "Levi's",
+        "model": "Model_6",
+        "category": "Automotive"
+    },
+    {
+        "name": "Fantastic_Pet Supply",
+        "price": 655.55,
+        "brand": "BMW",
+        "model": "Model_1",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Headphones_Fantastic",
+        "price": 505.93,
+        "brand": "AmazonBasics",
+        "model": "Model_3",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Awesome_Laptop",
+        "price": 498.44,
+        "brand": "LEGO",
+        "model": "Model_4",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Cool_Watch",
+        "price": 796.34,
+        "brand": "Amazon Kindle",
+        "model": "Model_3",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Shoes_Fantastic",
+        "price": 667.6,
+        "brand": "Apple",
+        "model": "Model_2",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Cool_Toy",
+        "price": 777.57,
+        "brand": "BMW",
+        "model": "Model_10",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Awesome_Shirt",
+        "price": 897.52,
+        "brand": "LEGO",
+        "model": "Model_7",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Best_Shoes",
+        "price": 727.13,
+        "brand": "Amazon Kindle",
+        "model": "Model_8",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Cool_Phone",
+        "price": 331.94,
+        "brand": "Rolex",
+        "model": "Model_8",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Toy_Cool",
+        "price": 806.79,
+        "brand": "Nike",
+        "model": "Model_5",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Awesome_Shoes",
+        "price": 368.74,
+        "brand": "Nike",
+        "model": "Model_6",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Pet Supply_Best",
+        "price": 294.54,
+        "brand": "LEGO",
+        "model": "Model_9",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Dress_Best",
+        "price": 954.59,
+        "brand": "Samsung",
+        "model": "Model_7",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Tool_Best",
+        "price": 949.37,
+        "brand": "Fitbit",
+        "model": "Model_4",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Best_Tool",
+        "price": 69.03,
+        "brand": "Rolex",
+        "model": "Model_10",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Cool_Toy",
+        "price": 529.75,
+        "brand": "Samsung",
+        "model": "Model_9",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Camera_Fantastic",
+        "price": 984.08,
+        "brand": "Sony",
+        "model": "Model_10",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Superb_Dress",
+        "price": 676.45,
+        "brand": "LEGO",
+        "model": "Model_10",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Cool_Shirt",
+        "price": 585.65,
+        "brand": "Levi's",
+        "model": "Model_4",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Headphones_Superb",
+        "price": 774.38,
+        "brand": "Apple",
+        "model": "Model_8",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Best_Watch",
+        "price": 931.65,
+        "brand": "Nike",
+        "model": "Model_6",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Toy_Fantastic",
+        "price": 370.75,
+        "brand": "AmazonBasics",
+        "model": "Model_2",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Fantastic_Headphones",
+        "price": 268.79,
+        "brand": "BMW",
+        "model": "Model_6",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Tool_Cool",
+        "price": 258.65,
+        "brand": "Samsung",
+        "model": "Model_9",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Laptop_Awesome",
+        "price": 667.65,
+        "brand": "Maybelline",
+        "model": "Model_9",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Shoes_Cool",
+        "price": 929.24,
+        "brand": "Fitbit",
+        "model": "Model_7",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Cool_Camera",
+        "price": 368.94,
+        "brand": "Adidas",
+        "model": "Model_9",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Laptop_Cool",
+        "price": 389.65,
+        "brand": "Apple",
+        "model": "Model_10",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Cool_Pet Supply",
+        "price": 213.33,
+        "brand": "Rolex",
+        "model": "Model_6",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Shirt_Awesome",
+        "price": 760.94,
+        "brand": "LEGO",
+        "model": "Model_5",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Laptop_Awesome",
+        "price": 117.48,
+        "brand": "Apple",
+        "model": "Model_8",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Phone_Awesome",
+        "price": 542.86,
+        "brand": "BMW",
+        "model": "Model_6",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Book_Cool",
+        "price": 797.27,
+        "brand": "Levi's",
+        "model": "Model_6",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Fantastic_Toy",
+        "price": 347.63,
+        "brand": "Samsung",
+        "model": "Model_8",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Dress_Cool",
+        "price": 888.77,
+        "brand": "LEGO",
+        "model": "Model_7",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Dress_Awesome",
+        "price": 859.18,
+        "brand": "LEGO",
+        "model": "Model_6",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Camera_Cool",
+        "price": 803.01,
+        "brand": "Adidas",
+        "model": "Model_1",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Watch_Superb",
+        "price": 566.5,
+        "brand": "Amazon Kindle",
+        "model": "Model_2",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Toy_Awesome",
+        "price": 782.87,
+        "brand": "Maybelline",
+        "model": "Model_10",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Superb_Pet Supply",
+        "price": 11.21,
+        "brand": "Apple",
+        "model": "Model_8",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Best_Shirt",
+        "price": 760.19,
+        "brand": "LEGO",
+        "model": "Model_7",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Watch_Best",
+        "price": 663.11,
+        "brand": "Nike",
+        "model": "Model_1",
+        "category": "Electronics"
+    },
+    {
+        "name": "Shirt_Awesome",
+        "price": 829.69,
+        "brand": "Adidas",
+        "model": "Model_4",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Phone_Superb",
+        "price": 514.66,
+        "brand": "Fitbit",
+        "model": "Model_5",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Awesome_Shirt",
+        "price": 442.6,
+        "brand": "Fitbit",
+        "model": "Model_3",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Pet Supply_Cool",
+        "price": 368.01,
+        "brand": "Apple",
+        "model": "Model_9",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Headphones_Awesome",
+        "price": 135.04,
+        "brand": "AmazonBasics",
+        "model": "Model_4",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Superb_Book",
+        "price": 647.22,
+        "brand": "BMW",
+        "model": "Model_8",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Awesome_Headphones",
+        "price": 144.46,
+        "brand": "BMW",
+        "model": "Model_1",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Awesome_Phone",
+        "price": 681.99,
+        "brand": "AmazonBasics",
+        "model": "Model_1",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Shoes_Cool",
+        "price": 361.58,
+        "brand": "Levi's",
+        "model": "Model_1",
+        "category": "Electronics"
+    },
+    {
+        "name": "Superb_Laptop",
+        "price": 148.71,
+        "brand": "Amazon Kindle",
+        "model": "Model_10",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Cool_Book",
+        "price": 68.47,
+        "brand": "Maybelline",
+        "model": "Model_6",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Awesome_Dress",
+        "price": 501.45,
+        "brand": "Adidas",
+        "model": "Model_6",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Superb_Camera",
+        "price": 411.89,
+        "brand": "Samsung",
+        "model": "Model_6",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Book_Fantastic",
+        "price": 133.51,
+        "brand": "Fitbit",
+        "model": "Model_1",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Phone_Cool",
+        "price": 356.3,
+        "brand": "Maybelline",
+        "model": "Model_6",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Tool_Superb",
+        "price": 888.01,
+        "brand": "Sony",
+        "model": "Model_8",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Headphones_Superb",
+        "price": 850.02,
+        "brand": "AmazonBasics",
+        "model": "Model_1",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Shoes_Best",
+        "price": 535.07,
+        "brand": "Fitbit",
+        "model": "Model_10",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Cool_Laptop",
+        "price": 544.16,
+        "brand": "Amazon Kindle",
+        "model": "Model_3",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Phone_Awesome",
+        "price": 970.49,
+        "brand": "BMW",
+        "model": "Model_2",
+        "category": "Electronics"
+    },
+    {
+        "name": "Best_Dress",
+        "price": 710.53,
+        "brand": "Rolex",
+        "model": "Model_4",
+        "category": "Electronics"
+    },
+    {
+        "name": "Best_Camera",
+        "price": 98.74,
+        "brand": "Levi's",
+        "model": "Model_3",
+        "category": "Automotive"
+    },
+    {
+        "name": "Cool_Watch",
+        "price": 977.43,
+        "brand": "Rolex",
+        "model": "Model_2",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Fantastic_Camera",
+        "price": 232.63,
+        "brand": "Samsung",
+        "model": "Model_7",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Awesome_Book",
+        "price": 978.16,
+        "brand": "Rolex",
+        "model": "Model_9",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Superb_Toy",
+        "price": 446.24,
+        "brand": "Samsung",
+        "model": "Model_6",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Shirt_Superb",
+        "price": 317.26,
+        "brand": "AmazonBasics",
+        "model": "Model_8",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Phone_Best",
+        "price": 296.53,
+        "brand": "Adidas",
+        "model": "Model_7",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Fantastic_Toy",
+        "price": 747.74,
+        "brand": "Apple",
+        "model": "Model_8",
+        "category": "Electronics"
+    },
+    {
+        "name": "Superb_Watch",
+        "price": 368.76,
+        "brand": "Adidas",
+        "model": "Model_7",
+        "category": "Automotive"
+    },
+    {
+        "name": "Shoes_Cool",
+        "price": 194.9,
+        "brand": "BMW",
+        "model": "Model_10",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Toy_Awesome",
+        "price": 134.75,
+        "brand": "Adidas",
+        "model": "Model_8",
+        "category": "Electronics"
+    },
+    {
+        "name": "Cool_Phone",
+        "price": 463.57,
+        "brand": "Fitbit",
+        "model": "Model_7",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Toy_Superb",
+        "price": 226.74,
+        "brand": "Maybelline",
+        "model": "Model_7",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Book_Superb",
+        "price": 811.38,
+        "brand": "LEGO",
+        "model": "Model_3",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Book_Best",
+        "price": 815.17,
+        "brand": "Nike",
+        "model": "Model_9",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Shirt_Best",
+        "price": 987.15,
+        "brand": "LEGO",
+        "model": "Model_8",
+        "category": "Automotive"
+    },
+    {
+        "name": "Phone_Cool",
+        "price": 534.78,
+        "brand": "Adidas",
+        "model": "Model_2",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Tool_Cool",
+        "price": 71.16,
+        "brand": "BMW",
+        "model": "Model_10",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Superb_Headphones",
+        "price": 104.63,
+        "brand": "Apple",
+        "model": "Model_1",
+        "category": "Electronics"
+    },
+    {
+        "name": "Dress_Awesome",
+        "price": 218.81,
+        "brand": "Adidas",
+        "model": "Model_9",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Headphones_Cool",
+        "price": 78.04,
+        "brand": "BMW",
+        "model": "Model_3",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Headphones_Best",
+        "price": 775.23,
+        "brand": "Nike",
+        "model": "Model_5",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Camera_Superb",
+        "price": 908.57,
+        "brand": "Samsung",
+        "model": "Model_7",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Pet Supply_Cool",
+        "price": 914.28,
+        "brand": "Levi's",
+        "model": "Model_1",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Cool_Camera",
+        "price": 213.4,
+        "brand": "AmazonBasics",
+        "model": "Model_5",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Cool_Laptop",
+        "price": 74.67,
+        "brand": "Levi's",
+        "model": "Model_10",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Superb_Watch",
+        "price": 864.89,
+        "brand": "Apple",
+        "model": "Model_3",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Phone_Best",
+        "price": 636.58,
+        "brand": "Fitbit",
+        "model": "Model_5",
+        "category": "Automotive"
+    },
+    {
+        "name": "Superb_Book",
+        "price": 86.91,
+        "brand": "Samsung",
+        "model": "Model_3",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Cool_Tool",
+        "price": 617.63,
+        "brand": "Levi's",
+        "model": "Model_5",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Fantastic_Book",
+        "price": 542.97,
+        "brand": "Rolex",
+        "model": "Model_6",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Fantastic_Tool",
+        "price": 702.4,
+        "brand": "Nike",
+        "model": "Model_6",
+        "category": "Automotive"
+    },
+    {
+        "name": "Fantastic_Laptop",
+        "price": 550.74,
+        "brand": "Sony",
+        "model": "Model_1",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Shoes_Cool",
+        "price": 771.06,
+        "brand": "AmazonBasics",
+        "model": "Model_5",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Shirt_Best",
+        "price": 735.69,
+        "brand": "Samsung",
+        "model": "Model_7",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Book_Best",
+        "price": 985.21,
+        "brand": "Apple",
+        "model": "Model_5",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Dress_Fantastic",
+        "price": 407.18,
+        "brand": "Maybelline",
+        "model": "Model_4",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Dress_Cool",
+        "price": 254.78,
+        "brand": "BMW",
+        "model": "Model_1",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Tool_Fantastic",
+        "price": 782.26,
+        "brand": "Fitbit",
+        "model": "Model_5",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Fantastic_Book",
+        "price": 849.0,
+        "brand": "BMW",
+        "model": "Model_8",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Watch_Best",
+        "price": 25.79,
+        "brand": "Levi's",
+        "model": "Model_4",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Fantastic_Headphones",
+        "price": 285.77,
+        "brand": "Maybelline",
+        "model": "Model_7",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Watch_Cool",
+        "price": 874.16,
+        "brand": "Adidas",
+        "model": "Model_7",
+        "category": "Automotive"
+    },
+    {
+        "name": "Cool_Shoes",
+        "price": 424.1,
+        "brand": "Nike",
+        "model": "Model_6",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Shoes_Superb",
+        "price": 45.69,
+        "brand": "Rolex",
+        "model": "Model_5",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Phone_Fantastic",
+        "price": 912.13,
+        "brand": "Nike",
+        "model": "Model_7",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Fantastic_Dress",
+        "price": 71.3,
+        "brand": "Rolex",
+        "model": "Model_2",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Shoes_Awesome",
+        "price": 560.66,
+        "brand": "Amazon Kindle",
+        "model": "Model_4",
+        "category": "Electronics"
+    },
+    {
+        "name": "Superb_Watch",
+        "price": 252.92,
+        "brand": "Nike",
+        "model": "Model_4",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Headphones_Best",
+        "price": 168.88,
+        "brand": "Fitbit",
+        "model": "Model_4",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Best_Camera",
+        "price": 177.91,
+        "brand": "LEGO",
+        "model": "Model_5",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Watch_Cool",
+        "price": 498.52,
+        "brand": "Sony",
+        "model": "Model_9",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Superb_Shoes",
+        "price": 29.65,
+        "brand": "Maybelline",
+        "model": "Model_9",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Laptop_Best",
+        "price": 515.58,
+        "brand": "Adidas",
+        "model": "Model_3",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Awesome_Tool",
+        "price": 573.65,
+        "brand": "Rolex",
+        "model": "Model_6",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Camera_Best",
+        "price": 527.01,
+        "brand": "Nike",
+        "model": "Model_9",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Shoes_Fantastic",
+        "price": 657.1,
+        "brand": "Samsung",
+        "model": "Model_7",
+        "category": "Electronics"
+    },
+    {
+        "name": "Superb_Camera",
+        "price": 801.72,
+        "brand": "Levi's",
+        "model": "Model_6",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Camera_Cool",
+        "price": 788.05,
+        "brand": "Samsung",
+        "model": "Model_9",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Laptop_Superb",
+        "price": 634.65,
+        "brand": "Sony",
+        "model": "Model_3",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Awesome_Shoes",
+        "price": 33.68,
+        "brand": "Adidas",
+        "model": "Model_5",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Shoes_Fantastic",
+        "price": 159.06,
+        "brand": "Amazon Kindle",
+        "model": "Model_8",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Best_Watch",
+        "price": 116.12,
+        "brand": "BMW",
+        "model": "Model_4",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Watch_Superb",
+        "price": 371.45,
+        "brand": "Rolex",
+        "model": "Model_2",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Camera_Cool",
+        "price": 81.08,
+        "brand": "AmazonBasics",
+        "model": "Model_9",
+        "category": "Automotive"
+    },
+    {
+        "name": "Superb_Pet Supply",
+        "price": 805.16,
+        "brand": "Nike",
+        "model": "Model_2",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Phone_Superb",
+        "price": 709.88,
+        "brand": "Apple",
+        "model": "Model_3",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Laptop_Fantastic",
+        "price": 177.18,
+        "brand": "Nike",
+        "model": "Model_10",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Cool_Toy",
+        "price": 185.29,
+        "brand": "Maybelline",
+        "model": "Model_4",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Awesome_Dress",
+        "price": 621.37,
+        "brand": "Maybelline",
+        "model": "Model_7",
+        "category": "Automotive"
+    },
+    {
+        "name": "Pet Supply_Best",
+        "price": 356.44,
+        "brand": "Amazon Kindle",
+        "model": "Model_4",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Watch_Cool",
+        "price": 159.04,
+        "brand": "Maybelline",
+        "model": "Model_7",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Pet Supply_Awesome",
+        "price": 152.56,
+        "brand": "Sony",
+        "model": "Model_10",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Best_Laptop",
+        "price": 242.42,
+        "brand": "Sony",
+        "model": "Model_5",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Fantastic_Shoes",
+        "price": 719.32,
+        "brand": "BMW",
+        "model": "Model_9",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Tool_Best",
+        "price": 841.73,
+        "brand": "Nike",
+        "model": "Model_9",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Tool_Cool",
+        "price": 243.37,
+        "brand": "Sony",
+        "model": "Model_7",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Superb_Tool",
+        "price": 654.6,
+        "brand": "Rolex",
+        "model": "Model_10",
+        "category": "Automotive"
+    },
+    {
+        "name": "Superb_Shirt",
+        "price": 883.87,
+        "brand": "Maybelline",
+        "model": "Model_7",
+        "category": "Automotive"
+    },
+    {
+        "name": "Fantastic_Tool",
+        "price": 289.16,
+        "brand": "Adidas",
+        "model": "Model_8",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Shirt_Fantastic",
+        "price": 84.09,
+        "brand": "BMW",
+        "model": "Model_1",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Phone_Best",
+        "price": 78.56,
+        "brand": "Sony",
+        "model": "Model_2",
+        "category": "Electronics"
+    },
+    {
+        "name": "Phone_Awesome",
+        "price": 279.52,
+        "brand": "LEGO",
+        "model": "Model_2",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Awesome_Laptop",
+        "price": 814.47,
+        "brand": "Fitbit",
+        "model": "Model_4",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Best_Shoes",
+        "price": 521.34,
+        "brand": "Nike",
+        "model": "Model_8",
+        "category": "Electronics"
+    },
+    {
+        "name": "Best_Tool",
+        "price": 707.99,
+        "brand": "Apple",
+        "model": "Model_1",
+        "category": "Automotive"
+    },
+    {
+        "name": "Pet Supply_Best",
+        "price": 479.18,
+        "brand": "Sony",
+        "model": "Model_3",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Awesome_Tool",
+        "price": 630.77,
+        "brand": "Rolex",
+        "model": "Model_6",
+        "category": "Electronics"
+    },
+    {
+        "name": "Superb_Shirt",
+        "price": 37.47,
+        "brand": "Nike",
+        "model": "Model_1",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Phone_Fantastic",
+        "price": 197.72,
+        "brand": "AmazonBasics",
+        "model": "Model_9",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Dress_Fantastic",
+        "price": 422.96,
+        "brand": "Levi's",
+        "model": "Model_10",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Camera_Superb",
+        "price": 685.08,
+        "brand": "BMW",
+        "model": "Model_8",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Superb_Toy",
+        "price": 420.09,
+        "brand": "Levi's",
+        "model": "Model_7",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Cool_Book",
+        "price": 510.71,
+        "brand": "Maybelline",
+        "model": "Model_4",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Best_Shirt",
+        "price": 741.42,
+        "brand": "Apple",
+        "model": "Model_1",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Awesome_Tool",
+        "price": 35.08,
+        "brand": "Nike",
+        "model": "Model_7",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Cool_Dress",
+        "price": 15.52,
+        "brand": "Nike",
+        "model": "Model_5",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Dress_Cool",
+        "price": 501.68,
+        "brand": "Nike",
+        "model": "Model_9",
+        "category": "Automotive"
+    },
+    {
+        "name": "Best_Shirt",
+        "price": 100.95,
+        "brand": "Samsung",
+        "model": "Model_8",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Superb_Headphones",
+        "price": 935.89,
+        "brand": "BMW",
+        "model": "Model_7",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Phone_Superb",
+        "price": 466.7,
+        "brand": "Maybelline",
+        "model": "Model_4",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Awesome_Book",
+        "price": 446.18,
+        "brand": "Levi's",
+        "model": "Model_10",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Pet Supply_Fantastic",
+        "price": 979.93,
+        "brand": "Nike",
+        "model": "Model_7",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Camera_Superb",
+        "price": 740.88,
+        "brand": "Sony",
+        "model": "Model_7",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Headphones_Best",
+        "price": 992.82,
+        "brand": "Maybelline",
+        "model": "Model_1",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Phone_Best",
+        "price": 682.41,
+        "brand": "AmazonBasics",
+        "model": "Model_4",
+        "category": "Automotive"
+    },
+    {
+        "name": "Shoes_Awesome",
+        "price": 648.0,
+        "brand": "Fitbit",
+        "model": "Model_4",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Pet Supply_Fantastic",
+        "price": 123.89,
+        "brand": "LEGO",
+        "model": "Model_7",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Dress_Cool",
+        "price": 867.61,
+        "brand": "LEGO",
+        "model": "Model_5",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Headphones_Awesome",
+        "price": 386.23,
+        "brand": "Nike",
+        "model": "Model_8",
+        "category": "Electronics"
+    },
+    {
+        "name": "Fantastic_Camera",
+        "price": 935.96,
+        "brand": "Amazon Kindle",
+        "model": "Model_7",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Best_Tool",
+        "price": 942.72,
+        "brand": "Maybelline",
+        "model": "Model_1",
+        "category": "Electronics"
+    },
+    {
+        "name": "Best_Pet Supply",
+        "price": 973.69,
+        "brand": "Levi's",
+        "model": "Model_2",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Laptop_Superb",
+        "price": 68.84,
+        "brand": "Amazon Kindle",
+        "model": "Model_4",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Dress_Fantastic",
+        "price": 772.54,
+        "brand": "Rolex",
+        "model": "Model_5",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Best_Camera",
+        "price": 48.27,
+        "brand": "Fitbit",
+        "model": "Model_3",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Laptop_Awesome",
+        "price": 494.33,
+        "brand": "Fitbit",
+        "model": "Model_4",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Awesome_Camera",
+        "price": 723.68,
+        "brand": "Adidas",
+        "model": "Model_5",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Dress_Fantastic",
+        "price": 341.48,
+        "brand": "Apple",
+        "model": "Model_8",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Book_Fantastic",
+        "price": 951.66,
+        "brand": "Rolex",
+        "model": "Model_5",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Awesome_Laptop",
+        "price": 244.38,
+        "brand": "Fitbit",
+        "model": "Model_2",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Toy_Fantastic",
+        "price": 161.59,
+        "brand": "Amazon Kindle",
+        "model": "Model_4",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Best_Shirt",
+        "price": 21.33,
+        "brand": "Sony",
+        "model": "Model_8",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Phone_Awesome",
+        "price": 969.82,
+        "brand": "Samsung",
+        "model": "Model_7",
+        "category": "Automotive"
+    },
+    {
+        "name": "Phone_Superb",
+        "price": 817.24,
+        "brand": "AmazonBasics",
+        "model": "Model_5",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Book_Awesome",
+        "price": 902.51,
+        "brand": "Amazon Kindle",
+        "model": "Model_10",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Awesome_Tool",
+        "price": 329.52,
+        "brand": "Rolex",
+        "model": "Model_6",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Camera_Fantastic",
+        "price": 995.33,
+        "brand": "Apple",
+        "model": "Model_5",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Fantastic_Phone",
+        "price": 223.1,
+        "brand": "Apple",
+        "model": "Model_4",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Camera_Superb",
+        "price": 993.58,
+        "brand": "BMW",
+        "model": "Model_2",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Laptop_Awesome",
+        "price": 767.99,
+        "brand": "Fitbit",
+        "model": "Model_6",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Cool_Camera",
+        "price": 68.46,
+        "brand": "Rolex",
+        "model": "Model_1",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Awesome_Shoes",
+        "price": 774.31,
+        "brand": "Amazon Kindle",
+        "model": "Model_3",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Best_Watch",
+        "price": 292.56,
+        "brand": "BMW",
+        "model": "Model_8",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Watch_Superb",
+        "price": 271.7,
+        "brand": "Sony",
+        "model": "Model_7",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Awesome_Shirt",
+        "price": 407.1,
+        "brand": "Fitbit",
+        "model": "Model_10",
+        "category": "Automotive"
+    },
+    {
+        "name": "Cool_Tool",
+        "price": 573.69,
+        "brand": "Levi's",
+        "model": "Model_9",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Shirt_Awesome",
+        "price": 922.83,
+        "brand": "Rolex",
+        "model": "Model_6",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Shirt_Fantastic",
+        "price": 690.53,
+        "brand": "AmazonBasics",
+        "model": "Model_10",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Phone_Superb",
+        "price": 456.98,
+        "brand": "BMW",
+        "model": "Model_1",
+        "category": "Automotive"
+    },
+    {
+        "name": "Shoes_Cool",
+        "price": 364.44,
+        "brand": "Nike",
+        "model": "Model_2",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Pet Supply_Best",
+        "price": 739.48,
+        "brand": "Nike",
+        "model": "Model_7",
+        "category": "Automotive"
+    },
+    {
+        "name": "Best_Shirt",
+        "price": 994.4,
+        "brand": "Apple",
+        "model": "Model_4",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Tool_Superb",
+        "price": 197.46,
+        "brand": "Fitbit",
+        "model": "Model_10",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Best_Dress",
+        "price": 979.36,
+        "brand": "Samsung",
+        "model": "Model_3",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Awesome_Headphones",
+        "price": 271.86,
+        "brand": "Levi's",
+        "model": "Model_9",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Book_Best",
+        "price": 316.29,
+        "brand": "Sony",
+        "model": "Model_10",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Superb_Headphones",
+        "price": 442.55,
+        "brand": "AmazonBasics",
+        "model": "Model_8",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Best_Toy",
+        "price": 319.47,
+        "brand": "Nike",
+        "model": "Model_9",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Tool_Superb",
+        "price": 239.83,
+        "brand": "Levi's",
+        "model": "Model_9",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Headphones_Best",
+        "price": 933.75,
+        "brand": "Adidas",
+        "model": "Model_6",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Tool_Cool",
+        "price": 875.37,
+        "brand": "Maybelline",
+        "model": "Model_8",
+        "category": "Electronics"
+    },
+    {
+        "name": "Dress_Superb",
+        "price": 895.8,
+        "brand": "Adidas",
+        "model": "Model_5",
+        "category": "Electronics"
+    },
+    {
+        "name": "Superb_Pet Supply",
+        "price": 542.3,
+        "brand": "Samsung",
+        "model": "Model_5",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Shoes_Awesome",
+        "price": 534.84,
+        "brand": "LEGO",
+        "model": "Model_2",
+        "category": "Electronics"
+    },
+    {
+        "name": "Book_Superb",
+        "price": 943.37,
+        "brand": "Adidas",
+        "model": "Model_7",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Tool_Cool",
+        "price": 849.15,
+        "brand": "Adidas",
+        "model": "Model_9",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Pet Supply_Fantastic",
+        "price": 283.93,
+        "brand": "Levi's",
+        "model": "Model_9",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Watch_Best",
+        "price": 519.3,
+        "brand": "BMW",
+        "model": "Model_9",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Fantastic_Laptop",
+        "price": 12.31,
+        "brand": "Sony",
+        "model": "Model_7",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Toy_Superb",
+        "price": 265.8,
+        "brand": "Samsung",
+        "model": "Model_1",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Book_Best",
+        "price": 954.99,
+        "brand": "LEGO",
+        "model": "Model_4",
+        "category": "Automotive"
+    },
+    {
+        "name": "Watch_Cool",
+        "price": 78.08,
+        "brand": "AmazonBasics",
+        "model": "Model_8",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Awesome_Tool",
+        "price": 349.03,
+        "brand": "Samsung",
+        "model": "Model_2",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Tool_Superb",
+        "price": 578.69,
+        "brand": "BMW",
+        "model": "Model_4",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Cool_Pet Supply",
+        "price": 75.64,
+        "brand": "Amazon Kindle",
+        "model": "Model_3",
+        "category": "Electronics"
+    },
+    {
+        "name": "Best_Dress",
+        "price": 24.13,
+        "brand": "Samsung",
+        "model": "Model_9",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Best_Watch",
+        "price": 804.88,
+        "brand": "Fitbit",
+        "model": "Model_8",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Dress_Fantastic",
+        "price": 146.72,
+        "brand": "Amazon Kindle",
+        "model": "Model_9",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Laptop_Superb",
+        "price": 875.54,
+        "brand": "Levi's",
+        "model": "Model_4",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Phone_Awesome",
+        "price": 204.7,
+        "brand": "Apple",
+        "model": "Model_6",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Superb_Headphones",
+        "price": 762.89,
+        "brand": "Amazon Kindle",
+        "model": "Model_10",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Book_Cool",
+        "price": 530.56,
+        "brand": "Amazon Kindle",
+        "model": "Model_9",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Fantastic_Dress",
+        "price": 269.97,
+        "brand": "LEGO",
+        "model": "Model_3",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Fantastic_Shirt",
+        "price": 35.35,
+        "brand": "Adidas",
+        "model": "Model_10",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Fantastic_Headphones",
+        "price": 478.48,
+        "brand": "Fitbit",
+        "model": "Model_9",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Shirt_Fantastic",
+        "price": 474.86,
+        "brand": "Maybelline",
+        "model": "Model_10",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Superb_Dress",
+        "price": 855.15,
+        "brand": "Amazon Kindle",
+        "model": "Model_1",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Fantastic_Laptop",
+        "price": 168.68,
+        "brand": "Maybelline",
+        "model": "Model_7",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Superb_Camera",
+        "price": 380.39,
+        "brand": "Nike",
+        "model": "Model_1",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Watch_Cool",
+        "price": 421.69,
+        "brand": "Sony",
+        "model": "Model_10",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Laptop_Superb",
+        "price": 534.93,
+        "brand": "Rolex",
+        "model": "Model_5",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Camera_Awesome",
+        "price": 881.07,
+        "brand": "Adidas",
+        "model": "Model_1",
+        "category": "Electronics"
+    },
+    {
+        "name": "Laptop_Superb",
+        "price": 469.24,
+        "brand": "Rolex",
+        "model": "Model_2",
+        "category": "Electronics"
+    },
+    {
+        "name": "Best_Pet Supply",
+        "price": 285.84,
+        "brand": "Adidas",
+        "model": "Model_5",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Fantastic_Book",
+        "price": 716.62,
+        "brand": "BMW",
+        "model": "Model_7",
+        "category": "Electronics"
+    },
+    {
+        "name": "Book_Cool",
+        "price": 715.68,
+        "brand": "Fitbit",
+        "model": "Model_1",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Pet Supply_Superb",
+        "price": 962.12,
+        "brand": "Sony",
+        "model": "Model_9",
+        "category": "Automotive"
+    },
+    {
+        "name": "Cool_Toy",
+        "price": 566.44,
+        "brand": "BMW",
+        "model": "Model_3",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Camera_Awesome",
+        "price": 799.57,
+        "brand": "LEGO",
+        "model": "Model_8",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Toy_Cool",
+        "price": 424.27,
+        "brand": "Amazon Kindle",
+        "model": "Model_4",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Fantastic_Headphones",
+        "price": 642.86,
+        "brand": "LEGO",
+        "model": "Model_4",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Cool_Dress",
+        "price": 186.58,
+        "brand": "Nike",
+        "model": "Model_5",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Toy_Superb",
+        "price": 844.28,
+        "brand": "Rolex",
+        "model": "Model_10",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Cool_Phone",
+        "price": 813.49,
+        "brand": "BMW",
+        "model": "Model_8",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Shirt_Superb",
+        "price": 862.83,
+        "brand": "Fitbit",
+        "model": "Model_7",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Watch_Awesome",
+        "price": 638.61,
+        "brand": "LEGO",
+        "model": "Model_2",
+        "category": "Electronics"
+    },
+    {
+        "name": "Laptop_Awesome",
+        "price": 457.06,
+        "brand": "Fitbit",
+        "model": "Model_4",
+        "category": "Electronics"
+    },
+    {
+        "name": "Dress_Best",
+        "price": 122.45,
+        "brand": "Levi's",
+        "model": "Model_10",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Pet Supply_Awesome",
+        "price": 914.67,
+        "brand": "AmazonBasics",
+        "model": "Model_5",
+        "category": "Electronics"
+    },
+    {
+        "name": "Watch_Cool",
+        "price": 645.2,
+        "brand": "BMW",
+        "model": "Model_2",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Superb_Tool",
+        "price": 452.06,
+        "brand": "Rolex",
+        "model": "Model_6",
+        "category": "Automotive"
+    },
+    {
+        "name": "Pet Supply_Fantastic",
+        "price": 954.9,
+        "brand": "Rolex",
+        "model": "Model_6",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Tool_Cool",
+        "price": 513.74,
+        "brand": "Levi's",
+        "model": "Model_5",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Phone_Best",
+        "price": 92.28,
+        "brand": "Levi's",
+        "model": "Model_3",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Phone_Best",
+        "price": 688.0,
+        "brand": "LEGO",
+        "model": "Model_1",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Shoes_Superb",
+        "price": 817.08,
+        "brand": "Rolex",
+        "model": "Model_7",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Awesome_Book",
+        "price": 211.57,
+        "brand": "Samsung",
+        "model": "Model_9",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Shirt_Best",
+        "price": 883.96,
+        "brand": "Levi's",
+        "model": "Model_10",
+        "category": "Electronics"
+    },
+    {
+        "name": "Dress_Fantastic",
+        "price": 265.2,
+        "brand": "Fitbit",
+        "model": "Model_5",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Toy_Awesome",
+        "price": 31.21,
+        "brand": "Samsung",
+        "model": "Model_1",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Dress_Fantastic",
+        "price": 345.7,
+        "brand": "Rolex",
+        "model": "Model_4",
+        "category": "Electronics"
+    },
+    {
+        "name": "Shirt_Superb",
+        "price": 286.82,
+        "brand": "Fitbit",
+        "model": "Model_6",
+        "category": "Automotive"
+    },
+    {
+        "name": "Superb_Shoes",
+        "price": 37.82,
+        "brand": "AmazonBasics",
+        "model": "Model_3",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Shoes_Fantastic",
+        "price": 741.09,
+        "brand": "Apple",
+        "model": "Model_3",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Shoes_Awesome",
+        "price": 347.15,
+        "brand": "LEGO",
+        "model": "Model_3",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Superb_Pet Supply",
+        "price": 749.39,
+        "brand": "LEGO",
+        "model": "Model_10",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Superb_Shirt",
+        "price": 188.3,
+        "brand": "BMW",
+        "model": "Model_8",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Dress_Cool",
+        "price": 538.8,
+        "brand": "Apple",
+        "model": "Model_6",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Camera_Cool",
+        "price": 82.46,
+        "brand": "Sony",
+        "model": "Model_6",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Awesome_Laptop",
+        "price": 903.58,
+        "brand": "Adidas",
+        "model": "Model_7",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Laptop_Best",
+        "price": 272.61,
+        "brand": "Fitbit",
+        "model": "Model_4",
+        "category": "Electronics"
+    },
+    {
+        "name": "Dress_Fantastic",
+        "price": 185.2,
+        "brand": "Levi's",
+        "model": "Model_1",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Headphones_Best",
+        "price": 961.87,
+        "brand": "Amazon Kindle",
+        "model": "Model_2",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Watch_Awesome",
+        "price": 58.05,
+        "brand": "AmazonBasics",
+        "model": "Model_8",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Book_Cool",
+        "price": 552.91,
+        "brand": "BMW",
+        "model": "Model_6",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Headphones_Awesome",
+        "price": 533.28,
+        "brand": "Samsung",
+        "model": "Model_5",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Cool_Watch",
+        "price": 341.11,
+        "brand": "Rolex",
+        "model": "Model_1",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Awesome_Watch",
+        "price": 923.82,
+        "brand": "LEGO",
+        "model": "Model_4",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Tool_Superb",
+        "price": 517.55,
+        "brand": "Sony",
+        "model": "Model_2",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Superb_Tool",
+        "price": 729.96,
+        "brand": "AmazonBasics",
+        "model": "Model_8",
+        "category": "Automotive"
+    },
+    {
+        "name": "Awesome_Laptop",
+        "price": 580.57,
+        "brand": "Nike",
+        "model": "Model_10",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Cool_Shoes",
+        "price": 278.48,
+        "brand": "LEGO",
+        "model": "Model_3",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Cool_Headphones",
+        "price": 510.68,
+        "brand": "Nike",
+        "model": "Model_7",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Tool_Superb",
+        "price": 756.63,
+        "brand": "Nike",
+        "model": "Model_6",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Superb_Phone",
+        "price": 12.87,
+        "brand": "Amazon Kindle",
+        "model": "Model_10",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Tool_Awesome",
+        "price": 256.36,
+        "brand": "Amazon Kindle",
+        "model": "Model_6",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Awesome_Phone",
+        "price": 999.36,
+        "brand": "Sony",
+        "model": "Model_2",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Phone_Best",
+        "price": 91.66,
+        "brand": "Fitbit",
+        "model": "Model_1",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Phone_Best",
+        "price": 562.98,
+        "brand": "Apple",
+        "model": "Model_7",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Fantastic_Pet Supply",
+        "price": 575.87,
+        "brand": "Levi's",
+        "model": "Model_5",
+        "category": "Automotive"
+    },
+    {
+        "name": "Headphones_Awesome",
+        "price": 168.85,
+        "brand": "Apple",
+        "model": "Model_8",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Camera_Best",
+        "price": 377.25,
+        "brand": "LEGO",
+        "model": "Model_9",
+        "category": "Electronics"
+    },
+    {
+        "name": "Best_Dress",
+        "price": 655.18,
+        "brand": "Rolex",
+        "model": "Model_3",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Phone_Best",
+        "price": 157.54,
+        "brand": "LEGO",
+        "model": "Model_6",
+        "category": "Automotive"
+    },
+    {
+        "name": "Awesome_Pet Supply",
+        "price": 746.49,
+        "brand": "Maybelline",
+        "model": "Model_9",
+        "category": "Electronics"
+    },
+    {
+        "name": "Book_Superb",
+        "price": 807.69,
+        "brand": "Fitbit",
+        "model": "Model_8",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Phone_Fantastic",
+        "price": 364.22,
+        "brand": "AmazonBasics",
+        "model": "Model_5",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Awesome_Shirt",
+        "price": 291.44,
+        "brand": "BMW",
+        "model": "Model_10",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Book_Best",
+        "price": 222.56,
+        "brand": "Samsung",
+        "model": "Model_2",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Watch_Fantastic",
+        "price": 849.69,
+        "brand": "Maybelline",
+        "model": "Model_8",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Headphones_Awesome",
+        "price": 114.32,
+        "brand": "Rolex",
+        "model": "Model_3",
+        "category": "Automotive"
+    },
+    {
+        "name": "Headphones_Superb",
+        "price": 488.75,
+        "brand": "Amazon Kindle",
+        "model": "Model_9",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Toy_Superb",
+        "price": 801.19,
+        "brand": "Nike",
+        "model": "Model_4",
+        "category": "Automotive"
+    },
+    {
+        "name": "Shirt_Fantastic",
+        "price": 865.49,
+        "brand": "Amazon Kindle",
+        "model": "Model_10",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Tool_Cool",
+        "price": 612.97,
+        "brand": "Sony",
+        "model": "Model_1",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Camera_Superb",
+        "price": 795.33,
+        "brand": "LEGO",
+        "model": "Model_10",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Dress_Fantastic",
+        "price": 76.1,
+        "brand": "Maybelline",
+        "model": "Model_9",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Pet Supply_Best",
+        "price": 334.28,
+        "brand": "Rolex",
+        "model": "Model_6",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Watch_Fantastic",
+        "price": 87.03,
+        "brand": "LEGO",
+        "model": "Model_8",
+        "category": "Automotive"
+    },
+    {
+        "name": "Watch_Cool",
+        "price": 113.86,
+        "brand": "BMW",
+        "model": "Model_3",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Camera_Fantastic",
+        "price": 147.28,
+        "brand": "Maybelline",
+        "model": "Model_9",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Fantastic_Shoes",
+        "price": 151.43,
+        "brand": "Nike",
+        "model": "Model_6",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Headphones_Awesome",
+        "price": 709.52,
+        "brand": "Samsung",
+        "model": "Model_5",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Camera_Fantastic",
+        "price": 888.78,
+        "brand": "Fitbit",
+        "model": "Model_3",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Fantastic_Tool",
+        "price": 704.24,
+        "brand": "Nike",
+        "model": "Model_9",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Headphones_Superb",
+        "price": 141.09,
+        "brand": "Levi's",
+        "model": "Model_7",
+        "category": "Automotive"
+    },
+    {
+        "name": "Shoes_Best",
+        "price": 757.14,
+        "brand": "Amazon Kindle",
+        "model": "Model_2",
+        "category": "Electronics"
+    },
+    {
+        "name": "Pet Supply_Awesome",
+        "price": 111.43,
+        "brand": "Samsung",
+        "model": "Model_5",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Best_Laptop",
+        "price": 257.4,
+        "brand": "Nike",
+        "model": "Model_5",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Camera_Cool",
+        "price": 904.34,
+        "brand": "Samsung",
+        "model": "Model_4",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Awesome_Pet Supply",
+        "price": 655.21,
+        "brand": "BMW",
+        "model": "Model_1",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Tool_Awesome",
+        "price": 316.23,
+        "brand": "Levi's",
+        "model": "Model_3",
+        "category": "Electronics"
+    },
+    {
+        "name": "Best_Shirt",
+        "price": 298.19,
+        "brand": "Maybelline",
+        "model": "Model_1",
+        "category": "Automotive"
+    },
+    {
+        "name": "Superb_Camera",
+        "price": 648.61,
+        "brand": "Adidas",
+        "model": "Model_1",
+        "category": "Automotive"
+    },
+    {
+        "name": "Awesome_Watch",
+        "price": 570.64,
+        "brand": "Nike",
+        "model": "Model_4",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Cool_Phone",
+        "price": 894.38,
+        "brand": "AmazonBasics",
+        "model": "Model_7",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Camera_Best",
+        "price": 785.66,
+        "brand": "Apple",
+        "model": "Model_5",
+        "category": "Automotive"
+    },
+    {
+        "name": "Best_Pet Supply",
+        "price": 351.0,
+        "brand": "Rolex",
+        "model": "Model_2",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Book_Cool",
+        "price": 322.7,
+        "brand": "Levi's",
+        "model": "Model_10",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Tool_Superb",
+        "price": 386.52,
+        "brand": "Adidas",
+        "model": "Model_6",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Fantastic_Book",
+        "price": 13.28,
+        "brand": "Maybelline",
+        "model": "Model_3",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Shirt_Awesome",
+        "price": 104.78,
+        "brand": "AmazonBasics",
+        "model": "Model_2",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Pet Supply_Cool",
+        "price": 558.09,
+        "brand": "Samsung",
+        "model": "Model_9",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Dress_Superb",
+        "price": 459.0,
+        "brand": "Samsung",
+        "model": "Model_9",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Headphones_Superb",
+        "price": 417.09,
+        "brand": "Nike",
+        "model": "Model_10",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Superb_Camera",
+        "price": 562.12,
+        "brand": "Adidas",
+        "model": "Model_6",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Dress_Cool",
+        "price": 507.83,
+        "brand": "Fitbit",
+        "model": "Model_3",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Pet Supply_Fantastic",
+        "price": 21.44,
+        "brand": "Samsung",
+        "model": "Model_9",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Dress_Fantastic",
+        "price": 31.88,
+        "brand": "Apple",
+        "model": "Model_7",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Camera_Awesome",
+        "price": 693.37,
+        "brand": "AmazonBasics",
+        "model": "Model_10",
+        "category": "Electronics"
+    },
+    {
+        "name": "Best_Shoes",
+        "price": 404.82,
+        "brand": "Sony",
+        "model": "Model_4",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Phone_Superb",
+        "price": 112.87,
+        "brand": "Rolex",
+        "model": "Model_1",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Best_Shirt",
+        "price": 267.47,
+        "brand": "Sony",
+        "model": "Model_6",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Tool_Fantastic",
+        "price": 71.16,
+        "brand": "Adidas",
+        "model": "Model_3",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Superb_Watch",
+        "price": 249.5,
+        "brand": "AmazonBasics",
+        "model": "Model_2",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Tool_Fantastic",
+        "price": 157.68,
+        "brand": "Nike",
+        "model": "Model_7",
+        "category": "Electronics"
+    },
+    {
+        "name": "Camera_Superb",
+        "price": 532.35,
+        "brand": "Samsung",
+        "model": "Model_9",
+        "category": "Automotive"
+    },
+    {
+        "name": "Fantastic_Phone",
+        "price": 37.47,
+        "brand": "Levi's",
+        "model": "Model_10",
+        "category": "Electronics"
+    },
+    {
+        "name": "Shoes_Superb",
+        "price": 879.98,
+        "brand": "BMW",
+        "model": "Model_10",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Tool_Fantastic",
+        "price": 962.88,
+        "brand": "Maybelline",
+        "model": "Model_5",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Awesome_Laptop",
+        "price": 310.91,
+        "brand": "Maybelline",
+        "model": "Model_1",
+        "category": "Electronics"
+    },
+    {
+        "name": "Superb_Phone",
+        "price": 262.13,
+        "brand": "LEGO",
+        "model": "Model_4",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Best_Shirt",
+        "price": 74.88,
+        "brand": "Maybelline",
+        "model": "Model_7",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Camera_Best",
+        "price": 712.92,
+        "brand": "LEGO",
+        "model": "Model_1",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Pet Supply_Cool",
+        "price": 291.62,
+        "brand": "AmazonBasics",
+        "model": "Model_3",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Awesome_Shoes",
+        "price": 180.71,
+        "brand": "Nike",
+        "model": "Model_9",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Best_Laptop",
+        "price": 941.72,
+        "brand": "Adidas",
+        "model": "Model_10",
+        "category": "Electronics"
+    },
+    {
+        "name": "Tool_Best",
+        "price": 616.69,
+        "brand": "Samsung",
+        "model": "Model_8",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Best_Watch",
+        "price": 624.42,
+        "brand": "Maybelline",
+        "model": "Model_7",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Awesome_Watch",
+        "price": 846.95,
+        "brand": "Levi's",
+        "model": "Model_1",
+        "category": "Electronics"
+    },
+    {
+        "name": "Awesome_Toy",
+        "price": 442.4,
+        "brand": "Sony",
+        "model": "Model_2",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Cool_Watch",
+        "price": 551.7,
+        "brand": "Maybelline",
+        "model": "Model_10",
+        "category": "Automotive"
+    },
+    {
+        "name": "Headphones_Awesome",
+        "price": 112.28,
+        "brand": "BMW",
+        "model": "Model_8",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Cool_Camera",
+        "price": 166.47,
+        "brand": "Fitbit",
+        "model": "Model_1",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Fantastic_Shirt",
+        "price": 29.54,
+        "brand": "LEGO",
+        "model": "Model_10",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Awesome_Phone",
+        "price": 454.17,
+        "brand": "Adidas",
+        "model": "Model_7",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Tool_Cool",
+        "price": 94.2,
+        "brand": "Nike",
+        "model": "Model_9",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Camera_Fantastic",
+        "price": 930.64,
+        "brand": "Adidas",
+        "model": "Model_2",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Best_Tool",
+        "price": 87.97,
+        "brand": "Sony",
+        "model": "Model_1",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Toy_Cool",
+        "price": 71.23,
+        "brand": "Samsung",
+        "model": "Model_1",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Fantastic_Toy",
+        "price": 304.87,
+        "brand": "Rolex",
+        "model": "Model_9",
+        "category": "Electronics"
+    },
+    {
+        "name": "Best_Book",
+        "price": 350.09,
+        "brand": "LEGO",
+        "model": "Model_8",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Awesome_Dress",
+        "price": 250.07,
+        "brand": "LEGO",
+        "model": "Model_10",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Shoes_Fantastic",
+        "price": 304.5,
+        "brand": "Apple",
+        "model": "Model_1",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Dress_Fantastic",
+        "price": 255.8,
+        "brand": "Nike",
+        "model": "Model_7",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Laptop_Superb",
+        "price": 698.37,
+        "brand": "Amazon Kindle",
+        "model": "Model_5",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Camera_Awesome",
+        "price": 975.6,
+        "brand": "Levi's",
+        "model": "Model_6",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Fantastic_Shoes",
+        "price": 596.08,
+        "brand": "Nike",
+        "model": "Model_3",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Dress_Best",
+        "price": 876.64,
+        "brand": "Samsung",
+        "model": "Model_3",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Superb_Tool",
+        "price": 893.98,
+        "brand": "Levi's",
+        "model": "Model_7",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Headphones_Awesome",
+        "price": 393.52,
+        "brand": "Sony",
+        "model": "Model_8",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Shoes_Cool",
+        "price": 164.34,
+        "brand": "AmazonBasics",
+        "model": "Model_10",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Superb_Phone",
+        "price": 625.28,
+        "brand": "Maybelline",
+        "model": "Model_9",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Superb_Pet Supply",
+        "price": 477.04,
+        "brand": "Apple",
+        "model": "Model_8",
+        "category": "Automotive"
+    },
+    {
+        "name": "Shirt_Superb",
+        "price": 804.22,
+        "brand": "Sony",
+        "model": "Model_1",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Superb_Phone",
+        "price": 542.95,
+        "brand": "Maybelline",
+        "model": "Model_8",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Fantastic_Laptop",
+        "price": 625.7,
+        "brand": "Maybelline",
+        "model": "Model_4",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Dress_Awesome",
+        "price": 209.43,
+        "brand": "Sony",
+        "model": "Model_8",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Tool_Awesome",
+        "price": 200.31,
+        "brand": "Amazon Kindle",
+        "model": "Model_9",
+        "category": "Automotive"
+    },
+    {
+        "name": "Fantastic_Shoes",
+        "price": 52.88,
+        "brand": "Samsung",
+        "model": "Model_2",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Laptop_Superb",
+        "price": 535.95,
+        "brand": "Samsung",
+        "model": "Model_5",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Best_Book",
+        "price": 620.04,
+        "brand": "Maybelline",
+        "model": "Model_8",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Pet Supply_Awesome",
+        "price": 124.69,
+        "brand": "AmazonBasics",
+        "model": "Model_9",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Dress_Cool",
+        "price": 593.4,
+        "brand": "Fitbit",
+        "model": "Model_2",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Cool_Shirt",
+        "price": 239.65,
+        "brand": "LEGO",
+        "model": "Model_4",
+        "category": "Automotive"
+    },
+    {
+        "name": "Dress_Best",
+        "price": 349.49,
+        "brand": "Apple",
+        "model": "Model_8",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Laptop_Awesome",
+        "price": 596.96,
+        "brand": "Nike",
+        "model": "Model_10",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Shirt_Fantastic",
+        "price": 515.5,
+        "brand": "Apple",
+        "model": "Model_2",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Toy_Superb",
+        "price": 563.54,
+        "brand": "Rolex",
+        "model": "Model_8",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Cool_Phone",
+        "price": 220.05,
+        "brand": "Maybelline",
+        "model": "Model_1",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Tool_Cool",
+        "price": 175.08,
+        "brand": "Fitbit",
+        "model": "Model_9",
+        "category": "Automotive"
+    },
+    {
+        "name": "Superb_Book",
+        "price": 355.88,
+        "brand": "Apple",
+        "model": "Model_5",
+        "category": "Automotive"
+    },
+    {
+        "name": "Best_Watch",
+        "price": 572.88,
+        "brand": "Levi's",
+        "model": "Model_4",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Laptop_Superb",
+        "price": 226.76,
+        "brand": "BMW",
+        "model": "Model_1",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Headphones_Cool",
+        "price": 919.49,
+        "brand": "LEGO",
+        "model": "Model_6",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Shoes_Cool",
+        "price": 942.25,
+        "brand": "BMW",
+        "model": "Model_4",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Laptop_Fantastic",
+        "price": 643.14,
+        "brand": "Maybelline",
+        "model": "Model_10",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Camera_Superb",
+        "price": 375.81,
+        "brand": "Levi's",
+        "model": "Model_5",
+        "category": "Automotive"
+    },
+    {
+        "name": "Awesome_Camera",
+        "price": 389.34,
+        "brand": "Levi's",
+        "model": "Model_6",
+        "category": "Electronics"
+    },
+    {
+        "name": "Awesome_Pet Supply",
+        "price": 385.44,
+        "brand": "BMW",
+        "model": "Model_5",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Cool_Toy",
+        "price": 216.47,
+        "brand": "Levi's",
+        "model": "Model_7",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Camera_Best",
+        "price": 786.11,
+        "brand": "Fitbit",
+        "model": "Model_4",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Best_Tool",
+        "price": 591.9,
+        "brand": "AmazonBasics",
+        "model": "Model_3",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Cool_Pet Supply",
+        "price": 161.88,
+        "brand": "Amazon Kindle",
+        "model": "Model_6",
+        "category": "Electronics"
+    },
+    {
+        "name": "Phone_Fantastic",
+        "price": 701.15,
+        "brand": "Samsung",
+        "model": "Model_4",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Toy_Best",
+        "price": 637.26,
+        "brand": "Levi's",
+        "model": "Model_2",
+        "category": "Automotive"
+    },
+    {
+        "name": "Fantastic_Camera",
+        "price": 290.96,
+        "brand": "Nike",
+        "model": "Model_7",
+        "category": "Electronics"
+    },
+    {
+        "name": "Cool_Watch",
+        "price": 494.27,
+        "brand": "Amazon Kindle",
+        "model": "Model_2",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Book_Best",
+        "price": 261.76,
+        "brand": "Amazon Kindle",
+        "model": "Model_3",
+        "category": "Electronics"
+    },
+    {
+        "name": "Headphones_Awesome",
+        "price": 476.94,
+        "brand": "AmazonBasics",
+        "model": "Model_3",
+        "category": "Electronics"
+    },
+    {
+        "name": "Headphones_Superb",
+        "price": 140.46,
+        "brand": "Adidas",
+        "model": "Model_5",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Awesome_Shoes",
+        "price": 255.1,
+        "brand": "Maybelline",
+        "model": "Model_6",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Fantastic_Dress",
+        "price": 442.91,
+        "brand": "Amazon Kindle",
+        "model": "Model_6",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Shirt_Superb",
+        "price": 314.29,
+        "brand": "BMW",
+        "model": "Model_9",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Laptop_Awesome",
+        "price": 819.83,
+        "brand": "Adidas",
+        "model": "Model_2",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Toy_Awesome",
+        "price": 209.31,
+        "brand": "AmazonBasics",
+        "model": "Model_4",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Shirt_Superb",
+        "price": 157.11,
+        "brand": "Apple",
+        "model": "Model_1",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Awesome_Shoes",
+        "price": 106.24,
+        "brand": "Maybelline",
+        "model": "Model_8",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Toy_Best",
+        "price": 796.12,
+        "brand": "Maybelline",
+        "model": "Model_9",
+        "category": "Automotive"
+    },
+    {
+        "name": "Awesome_Book",
+        "price": 71.49,
+        "brand": "Maybelline",
+        "model": "Model_9",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Fantastic_Phone",
+        "price": 206.36,
+        "brand": "Sony",
+        "model": "Model_9",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Superb_Watch",
+        "price": 788.35,
+        "brand": "AmazonBasics",
+        "model": "Model_7",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Pet Supply_Best",
+        "price": 189.98,
+        "brand": "LEGO",
+        "model": "Model_3",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Tool_Fantastic",
+        "price": 226.89,
+        "brand": "BMW",
+        "model": "Model_1",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Awesome_Shoes",
+        "price": 803.18,
+        "brand": "Maybelline",
+        "model": "Model_1",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Awesome_Camera",
+        "price": 935.85,
+        "brand": "Samsung",
+        "model": "Model_6",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Laptop_Cool",
+        "price": 706.22,
+        "brand": "Adidas",
+        "model": "Model_3",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Dress_Awesome",
+        "price": 988.82,
+        "brand": "Levi's",
+        "model": "Model_1",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Toy_Best",
+        "price": 609.41,
+        "brand": "Rolex",
+        "model": "Model_7",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Tool_Superb",
+        "price": 85.5,
+        "brand": "Fitbit",
+        "model": "Model_1",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Toy_Awesome",
+        "price": 738.97,
+        "brand": "Samsung",
+        "model": "Model_4",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Dress_Fantastic",
+        "price": 396.43,
+        "brand": "Samsung",
+        "model": "Model_10",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Best_Toy",
+        "price": 180.3,
+        "brand": "Rolex",
+        "model": "Model_1",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Best_Dress",
+        "price": 882.18,
+        "brand": "Fitbit",
+        "model": "Model_7",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Best_Laptop",
+        "price": 29.49,
+        "brand": "Nike",
+        "model": "Model_8",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Best_Pet Supply",
+        "price": 769.79,
+        "brand": "Nike",
+        "model": "Model_3",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Fantastic_Pet Supply",
+        "price": 610.02,
+        "brand": "Maybelline",
+        "model": "Model_2",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Laptop_Superb",
+        "price": 422.74,
+        "brand": "Sony",
+        "model": "Model_8",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Shoes_Fantastic",
+        "price": 673.45,
+        "brand": "LEGO",
+        "model": "Model_9",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Camera_Awesome",
+        "price": 266.27,
+        "brand": "Samsung",
+        "model": "Model_1",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Best_Shoes",
+        "price": 151.97,
+        "brand": "Rolex",
+        "model": "Model_10",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Watch_Cool",
+        "price": 183.39,
+        "brand": "Sony",
+        "model": "Model_7",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Camera_Awesome",
+        "price": 298.2,
+        "brand": "Levi's",
+        "model": "Model_8",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Cool_Phone",
+        "price": 231.41,
+        "brand": "Amazon Kindle",
+        "model": "Model_6",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Tool_Awesome",
+        "price": 454.13,
+        "brand": "Fitbit",
+        "model": "Model_7",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Shirt_Awesome",
+        "price": 503.09,
+        "brand": "Rolex",
+        "model": "Model_7",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Best_Book",
+        "price": 612.27,
+        "brand": "Maybelline",
+        "model": "Model_5",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Superb_Shirt",
+        "price": 889.76,
+        "brand": "Adidas",
+        "model": "Model_7",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Cool_Headphones",
+        "price": 813.0,
+        "brand": "Fitbit",
+        "model": "Model_6",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Superb_Headphones",
+        "price": 68.82,
+        "brand": "LEGO",
+        "model": "Model_9",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Watch_Awesome",
+        "price": 766.55,
+        "brand": "Fitbit",
+        "model": "Model_2",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Superb_Book",
+        "price": 145.98,
+        "brand": "Rolex",
+        "model": "Model_2",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Best_Shirt",
+        "price": 720.52,
+        "brand": "Maybelline",
+        "model": "Model_7",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Best_Shirt",
+        "price": 954.41,
+        "brand": "Levi's",
+        "model": "Model_1",
+        "category": "Automotive"
+    },
+    {
+        "name": "Dress_Awesome",
+        "price": 134.34,
+        "brand": "AmazonBasics",
+        "model": "Model_5",
+        "category": "Automotive"
+    },
+    {
+        "name": "Awesome_Headphones",
+        "price": 795.72,
+        "brand": "Apple",
+        "model": "Model_4",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Superb_Headphones",
+        "price": 749.38,
+        "brand": "Samsung",
+        "model": "Model_5",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Cool_Phone",
+        "price": 91.16,
+        "brand": "Sony",
+        "model": "Model_8",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Best_Pet Supply",
+        "price": 521.12,
+        "brand": "Amazon Kindle",
+        "model": "Model_1",
+        "category": "Electronics"
+    },
+    {
+        "name": "Watch_Best",
+        "price": 597.0,
+        "brand": "Nike",
+        "model": "Model_6",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Pet Supply_Superb",
+        "price": 839.35,
+        "brand": "Samsung",
+        "model": "Model_3",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Laptop_Best",
+        "price": 34.98,
+        "brand": "LEGO",
+        "model": "Model_7",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Best_Laptop",
+        "price": 184.75,
+        "brand": "Sony",
+        "model": "Model_4",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Awesome_Book",
+        "price": 214.22,
+        "brand": "Samsung",
+        "model": "Model_1",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Best_Laptop",
+        "price": 331.85,
+        "brand": "Amazon Kindle",
+        "model": "Model_2",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Camera_Fantastic",
+        "price": 356.33,
+        "brand": "Apple",
+        "model": "Model_10",
+        "category": "Electronics"
+    },
+    {
+        "name": "Toy_Awesome",
+        "price": 139.83,
+        "brand": "Adidas",
+        "model": "Model_9",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Watch_Best",
+        "price": 472.19,
+        "brand": "Levi's",
+        "model": "Model_1",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Dress_Awesome",
+        "price": 151.57,
+        "brand": "LEGO",
+        "model": "Model_7",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Watch_Cool",
+        "price": 732.3,
+        "brand": "Fitbit",
+        "model": "Model_8",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Toy_Superb",
+        "price": 782.07,
+        "brand": "LEGO",
+        "model": "Model_6",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Superb_Book",
+        "price": 756.73,
+        "brand": "Apple",
+        "model": "Model_8",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Awesome_Dress",
+        "price": 318.98,
+        "brand": "Maybelline",
+        "model": "Model_5",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Superb_Phone",
+        "price": 495.6,
+        "brand": "Fitbit",
+        "model": "Model_5",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Awesome_Dress",
+        "price": 751.84,
+        "brand": "Apple",
+        "model": "Model_6",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Tool_Cool",
+        "price": 619.85,
+        "brand": "LEGO",
+        "model": "Model_6",
+        "category": "Automotive"
+    },
+    {
+        "name": "Fantastic_Laptop",
+        "price": 328.67,
+        "brand": "Fitbit",
+        "model": "Model_4",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Camera_Cool",
+        "price": 806.82,
+        "brand": "BMW",
+        "model": "Model_1",
+        "category": "Automotive"
+    },
+    {
+        "name": "Headphones_Best",
+        "price": 715.91,
+        "brand": "LEGO",
+        "model": "Model_4",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Dress_Fantastic",
+        "price": 70.19,
+        "brand": "Nike",
+        "model": "Model_9",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Camera_Fantastic",
+        "price": 22.97,
+        "brand": "LEGO",
+        "model": "Model_7",
+        "category": "Electronics"
+    },
+    {
+        "name": "Tool_Superb",
+        "price": 747.11,
+        "brand": "Fitbit",
+        "model": "Model_3",
+        "category": "Electronics"
+    },
+    {
+        "name": "Awesome_Toy",
+        "price": 563.83,
+        "brand": "Adidas",
+        "model": "Model_4",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Phone_Superb",
+        "price": 518.97,
+        "brand": "Maybelline",
+        "model": "Model_9",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Awesome_Pet Supply",
+        "price": 127.69,
+        "brand": "Amazon Kindle",
+        "model": "Model_8",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Superb_Headphones",
+        "price": 621.12,
+        "brand": "Maybelline",
+        "model": "Model_2",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Superb_Watch",
+        "price": 243.93,
+        "brand": "Maybelline",
+        "model": "Model_8",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Awesome_Watch",
+        "price": 887.36,
+        "brand": "Amazon Kindle",
+        "model": "Model_9",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Superb_Book",
+        "price": 545.9,
+        "brand": "Fitbit",
+        "model": "Model_6",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Awesome_Laptop",
+        "price": 387.66,
+        "brand": "Sony",
+        "model": "Model_2",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Headphones_Superb",
+        "price": 590.21,
+        "brand": "Rolex",
+        "model": "Model_10",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Fantastic_Shirt",
+        "price": 248.72,
+        "brand": "Nike",
+        "model": "Model_8",
+        "category": "Electronics"
+    },
+    {
+        "name": "Awesome_Headphones",
+        "price": 55.06,
+        "brand": "Adidas",
+        "model": "Model_10",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Shoes_Fantastic",
+        "price": 27.24,
+        "brand": "BMW",
+        "model": "Model_3",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Awesome_Phone",
+        "price": 208.49,
+        "brand": "Levi's",
+        "model": "Model_6",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Tool_Awesome",
+        "price": 811.96,
+        "brand": "Apple",
+        "model": "Model_5",
+        "category": "Electronics"
+    },
+    {
+        "name": "Best_Dress",
+        "price": 683.67,
+        "brand": "Levi's",
+        "model": "Model_6",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Fantastic_Headphones",
+        "price": 715.96,
+        "brand": "Maybelline",
+        "model": "Model_2",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Laptop_Superb",
+        "price": 682.7,
+        "brand": "Fitbit",
+        "model": "Model_3",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Toy_Cool",
+        "price": 347.71,
+        "brand": "Maybelline",
+        "model": "Model_6",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Cool_Shoes",
+        "price": 237.97,
+        "brand": "AmazonBasics",
+        "model": "Model_9",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Shoes_Best",
+        "price": 941.78,
+        "brand": "Fitbit",
+        "model": "Model_9",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Best_Tool",
+        "price": 444.14,
+        "brand": "Levi's",
+        "model": "Model_1",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Watch_Fantastic",
+        "price": 228.71,
+        "brand": "Rolex",
+        "model": "Model_1",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Shoes_Best",
+        "price": 241.54,
+        "brand": "AmazonBasics",
+        "model": "Model_5",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Pet Supply_Cool",
+        "price": 837.5,
+        "brand": "Maybelline",
+        "model": "Model_9",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Cool_Book",
+        "price": 552.3,
+        "brand": "Samsung",
+        "model": "Model_4",
+        "category": "Automotive"
+    },
+    {
+        "name": "Tool_Cool",
+        "price": 141.92,
+        "brand": "Levi's",
+        "model": "Model_5",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Shirt_Fantastic",
+        "price": 853.1,
+        "brand": "Fitbit",
+        "model": "Model_8",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Best_Shoes",
+        "price": 848.02,
+        "brand": "Adidas",
+        "model": "Model_5",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Watch_Superb",
+        "price": 889.67,
+        "brand": "Amazon Kindle",
+        "model": "Model_10",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Awesome_Toy",
+        "price": 378.15,
+        "brand": "Sony",
+        "model": "Model_5",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Awesome_Headphones",
+        "price": 857.3,
+        "brand": "Maybelline",
+        "model": "Model_10",
+        "category": "Electronics"
+    },
+    {
+        "name": "Superb_Phone",
+        "price": 24.48,
+        "brand": "Nike",
+        "model": "Model_4",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Fantastic_Shoes",
+        "price": 820.86,
+        "brand": "Levi's",
+        "model": "Model_7",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Shirt_Superb",
+        "price": 723.59,
+        "brand": "Adidas",
+        "model": "Model_1",
+        "category": "Electronics"
+    },
+    {
+        "name": "Dress_Awesome",
+        "price": 580.12,
+        "brand": "AmazonBasics",
+        "model": "Model_1",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Best_Phone",
+        "price": 450.15,
+        "brand": "Maybelline",
+        "model": "Model_9",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Best_Laptop",
+        "price": 924.58,
+        "brand": "Apple",
+        "model": "Model_7",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Fantastic_Dress",
+        "price": 164.25,
+        "brand": "Maybelline",
+        "model": "Model_6",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Laptop_Awesome",
+        "price": 563.52,
+        "brand": "LEGO",
+        "model": "Model_3",
+        "category": "Electronics"
+    },
+    {
+        "name": "Awesome_Phone",
+        "price": 36.36,
+        "brand": "Rolex",
+        "model": "Model_8",
+        "category": "Automotive"
+    },
+    {
+        "name": "Pet Supply_Cool",
+        "price": 781.08,
+        "brand": "Nike",
+        "model": "Model_3",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Fantastic_Shoes",
+        "price": 442.7,
+        "brand": "Amazon Kindle",
+        "model": "Model_10",
+        "category": "Electronics"
+    },
+    {
+        "name": "Awesome_Watch",
+        "price": 535.43,
+        "brand": "Maybelline",
+        "model": "Model_1",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Watch_Awesome",
+        "price": 783.83,
+        "brand": "Maybelline",
+        "model": "Model_6",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Shoes_Best",
+        "price": 185.3,
+        "brand": "Rolex",
+        "model": "Model_2",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Awesome_Shirt",
+        "price": 479.24,
+        "brand": "LEGO",
+        "model": "Model_8",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Book_Fantastic",
+        "price": 621.59,
+        "brand": "Apple",
+        "model": "Model_1",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Shoes_Best",
+        "price": 963.47,
+        "brand": "Samsung",
+        "model": "Model_9",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Superb_Pet Supply",
+        "price": 361.99,
+        "brand": "LEGO",
+        "model": "Model_2",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Cool_Dress",
+        "price": 15.32,
+        "brand": "Nike",
+        "model": "Model_6",
+        "category": "Automotive"
+    },
+    {
+        "name": "Best_Shoes",
+        "price": 32.09,
+        "brand": "Apple",
+        "model": "Model_5",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Fantastic_Dress",
+        "price": 766.64,
+        "brand": "Samsung",
+        "model": "Model_3",
+        "category": "Automotive"
+    },
+    {
+        "name": "Phone_Awesome",
+        "price": 632.47,
+        "brand": "BMW",
+        "model": "Model_1",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Fantastic_Camera",
+        "price": 796.35,
+        "brand": "AmazonBasics",
+        "model": "Model_6",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Awesome_Phone",
+        "price": 157.75,
+        "brand": "LEGO",
+        "model": "Model_8",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Awesome_Phone",
+        "price": 276.57,
+        "brand": "Amazon Kindle",
+        "model": "Model_8",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Headphones_Fantastic",
+        "price": 624.71,
+        "brand": "Fitbit",
+        "model": "Model_1",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Tool_Fantastic",
+        "price": 652.14,
+        "brand": "Amazon Kindle",
+        "model": "Model_2",
+        "category": "Automotive"
+    },
+    {
+        "name": "Camera_Superb",
+        "price": 118.91,
+        "brand": "Samsung",
+        "model": "Model_8",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Awesome_Toy",
+        "price": 23.58,
+        "brand": "BMW",
+        "model": "Model_1",
+        "category": "Automotive"
+    },
+    {
+        "name": "Fantastic_Toy",
+        "price": 421.66,
+        "brand": "Rolex",
+        "model": "Model_3",
+        "category": "Automotive"
+    },
+    {
+        "name": "Cool_Headphones",
+        "price": 818.72,
+        "brand": "Adidas",
+        "model": "Model_8",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Shoes_Awesome",
+        "price": 974.15,
+        "brand": "BMW",
+        "model": "Model_7",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Camera_Best",
+        "price": 101.04,
+        "brand": "Samsung",
+        "model": "Model_1",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Book_Fantastic",
+        "price": 337.27,
+        "brand": "Samsung",
+        "model": "Model_7",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Superb_Book",
+        "price": 937.71,
+        "brand": "Sony",
+        "model": "Model_2",
+        "category": "Electronics"
+    },
+    {
+        "name": "Shirt_Superb",
+        "price": 226.0,
+        "brand": "BMW",
+        "model": "Model_5",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Cool_Watch",
+        "price": 598.51,
+        "brand": "AmazonBasics",
+        "model": "Model_8",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Camera_Cool",
+        "price": 867.39,
+        "brand": "Nike",
+        "model": "Model_9",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Tool_Fantastic",
+        "price": 937.95,
+        "brand": "Amazon Kindle",
+        "model": "Model_9",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Laptop_Superb",
+        "price": 382.21,
+        "brand": "BMW",
+        "model": "Model_3",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Best_Shoes",
+        "price": 337.73,
+        "brand": "Fitbit",
+        "model": "Model_8",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Cool_Laptop",
+        "price": 794.47,
+        "brand": "Apple",
+        "model": "Model_3",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Tool_Best",
+        "price": 844.22,
+        "brand": "Sony",
+        "model": "Model_2",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Headphones_Cool",
+        "price": 203.34,
+        "brand": "BMW",
+        "model": "Model_5",
+        "category": "Automotive"
+    },
+    {
+        "name": "Pet Supply_Best",
+        "price": 38.51,
+        "brand": "Levi's",
+        "model": "Model_3",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Cool_Toy",
+        "price": 290.89,
+        "brand": "AmazonBasics",
+        "model": "Model_9",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Awesome_Book",
+        "price": 995.57,
+        "brand": "Nike",
+        "model": "Model_10",
+        "category": "Electronics"
+    },
+    {
+        "name": "Fantastic_Tool",
+        "price": 358.53,
+        "brand": "BMW",
+        "model": "Model_1",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Awesome_Toy",
+        "price": 541.38,
+        "brand": "Samsung",
+        "model": "Model_7",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Camera_Best",
+        "price": 841.97,
+        "brand": "Apple",
+        "model": "Model_1",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Book_Cool",
+        "price": 307.79,
+        "brand": "Apple",
+        "model": "Model_3",
+        "category": "Automotive"
+    },
+    {
+        "name": "Toy_Cool",
+        "price": 836.42,
+        "brand": "Sony",
+        "model": "Model_8",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Superb_Pet Supply",
+        "price": 117.67,
+        "brand": "LEGO",
+        "model": "Model_1",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Superb_Headphones",
+        "price": 706.9,
+        "brand": "Sony",
+        "model": "Model_3",
+        "category": "Electronics"
+    },
+    {
+        "name": "Toy_Superb",
+        "price": 213.75,
+        "brand": "Maybelline",
+        "model": "Model_5",
+        "category": "Automotive"
+    },
+    {
+        "name": "Superb_Tool",
+        "price": 444.89,
+        "brand": "LEGO",
+        "model": "Model_8",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Shirt_Fantastic",
+        "price": 48.36,
+        "brand": "Maybelline",
+        "model": "Model_7",
+        "category": "Electronics"
+    },
+    {
+        "name": "Phone_Best",
+        "price": 322.36,
+        "brand": "Apple",
+        "model": "Model_6",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Best_Dress",
+        "price": 178.43,
+        "brand": "Maybelline",
+        "model": "Model_6",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Phone_Superb",
+        "price": 591.73,
+        "brand": "LEGO",
+        "model": "Model_5",
+        "category": "Automotive"
+    },
+    {
+        "name": "Shoes_Awesome",
+        "price": 55.76,
+        "brand": "LEGO",
+        "model": "Model_1",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Superb_Shoes",
+        "price": 816.36,
+        "brand": "Maybelline",
+        "model": "Model_5",
+        "category": "Automotive"
+    },
+    {
+        "name": "Shoes_Best",
+        "price": 487.71,
+        "brand": "Maybelline",
+        "model": "Model_9",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Pet Supply_Fantastic",
+        "price": 575.63,
+        "brand": "Adidas",
+        "model": "Model_6",
+        "category": "Electronics"
+    },
+    {
+        "name": "Superb_Shirt",
+        "price": 13.74,
+        "brand": "AmazonBasics",
+        "model": "Model_3",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Phone_Awesome",
+        "price": 270.58,
+        "brand": "Amazon Kindle",
+        "model": "Model_3",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Cool_Book",
+        "price": 560.57,
+        "brand": "AmazonBasics",
+        "model": "Model_3",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Tool_Superb",
+        "price": 227.21,
+        "brand": "Nike",
+        "model": "Model_8",
+        "category": "Electronics"
+    },
+    {
+        "name": "Fantastic_Camera",
+        "price": 469.4,
+        "brand": "BMW",
+        "model": "Model_5",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Phone_Best",
+        "price": 380.28,
+        "brand": "Sony",
+        "model": "Model_4",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Headphones_Fantastic",
+        "price": 980.46,
+        "brand": "Samsung",
+        "model": "Model_6",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Pet Supply_Best",
+        "price": 631.75,
+        "brand": "Rolex",
+        "model": "Model_6",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Phone_Superb",
+        "price": 722.32,
+        "brand": "Rolex",
+        "model": "Model_5",
+        "category": "Electronics"
+    },
+    {
+        "name": "Cool_Phone",
+        "price": 271.18,
+        "brand": "Rolex",
+        "model": "Model_7",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Book_Cool",
+        "price": 699.12,
+        "brand": "LEGO",
+        "model": "Model_7",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Fantastic_Watch",
+        "price": 527.12,
+        "brand": "LEGO",
+        "model": "Model_6",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Book_Cool",
+        "price": 274.92,
+        "brand": "Rolex",
+        "model": "Model_4",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Awesome_Tool",
+        "price": 411.84,
+        "brand": "BMW",
+        "model": "Model_3",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Camera_Superb",
+        "price": 887.88,
+        "brand": "Sony",
+        "model": "Model_8",
+        "category": "Automotive"
+    },
+    {
+        "name": "Cool_Dress",
+        "price": 613.23,
+        "brand": "Nike",
+        "model": "Model_1",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Awesome_Tool",
+        "price": 178.16,
+        "brand": "Maybelline",
+        "model": "Model_5",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Superb_Headphones",
+        "price": 289.45,
+        "brand": "Sony",
+        "model": "Model_7",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Best_Pet Supply",
+        "price": 170.8,
+        "brand": "Levi's",
+        "model": "Model_4",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Shoes_Best",
+        "price": 227.08,
+        "brand": "Rolex",
+        "model": "Model_5",
+        "category": "Electronics"
+    },
+    {
+        "name": "Shirt_Superb",
+        "price": 448.77,
+        "brand": "Sony",
+        "model": "Model_8",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Awesome_Laptop",
+        "price": 401.78,
+        "brand": "Rolex",
+        "model": "Model_6",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Fantastic_Camera",
+        "price": 324.6,
+        "brand": "Apple",
+        "model": "Model_9",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Toy_Fantastic",
+        "price": 970.73,
+        "brand": "Maybelline",
+        "model": "Model_6",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Watch_Superb",
+        "price": 123.35,
+        "brand": "Rolex",
+        "model": "Model_2",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Toy_Superb",
+        "price": 672.14,
+        "brand": "BMW",
+        "model": "Model_1",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Shirt_Best",
+        "price": 998.46,
+        "brand": "Levi's",
+        "model": "Model_5",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Laptop_Fantastic",
+        "price": 990.76,
+        "brand": "Sony",
+        "model": "Model_6",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Book_Superb",
+        "price": 521.36,
+        "brand": "Maybelline",
+        "model": "Model_5",
+        "category": "Automotive"
+    },
+    {
+        "name": "Pet Supply_Best",
+        "price": 858.97,
+        "brand": "Samsung",
+        "model": "Model_1",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Tool_Awesome",
+        "price": 524.13,
+        "brand": "BMW",
+        "model": "Model_2",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Fantastic_Dress",
+        "price": 832.79,
+        "brand": "Nike",
+        "model": "Model_8",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Fantastic_Book",
+        "price": 494.23,
+        "brand": "Levi's",
+        "model": "Model_7",
+        "category": "Automotive"
+    },
+    {
+        "name": "Superb_Camera",
+        "price": 178.88,
+        "brand": "Adidas",
+        "model": "Model_6",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Cool_Book",
+        "price": 678.0,
+        "brand": "Rolex",
+        "model": "Model_9",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Best_Book",
+        "price": 358.41,
+        "brand": "Apple",
+        "model": "Model_4",
+        "category": "Automotive"
+    },
+    {
+        "name": "Best_Watch",
+        "price": 938.42,
+        "brand": "Samsung",
+        "model": "Model_7",
+        "category": "Electronics"
+    },
+    {
+        "name": "Dress_Fantastic",
+        "price": 329.66,
+        "brand": "Amazon Kindle",
+        "model": "Model_3",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Superb_Watch",
+        "price": 809.17,
+        "brand": "Apple",
+        "model": "Model_3",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Phone_Best",
+        "price": 388.38,
+        "brand": "Rolex",
+        "model": "Model_1",
+        "category": "Automotive"
+    },
+    {
+        "name": "Superb_Dress",
+        "price": 574.39,
+        "brand": "Amazon Kindle",
+        "model": "Model_1",
+        "category": "Automotive"
+    },
+    {
+        "name": "Book_Awesome",
+        "price": 426.89,
+        "brand": "Adidas",
+        "model": "Model_6",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Dress_Best",
+        "price": 337.62,
+        "brand": "LEGO",
+        "model": "Model_10",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Watch_Awesome",
+        "price": 125.31,
+        "brand": "Adidas",
+        "model": "Model_1",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Fantastic_Shoes",
+        "price": 197.99,
+        "brand": "Maybelline",
+        "model": "Model_5",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Superb_Pet Supply",
+        "price": 803.09,
+        "brand": "Amazon Kindle",
+        "model": "Model_6",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Fantastic_Dress",
+        "price": 963.0,
+        "brand": "Samsung",
+        "model": "Model_6",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Awesome_Toy",
+        "price": 960.38,
+        "brand": "Rolex",
+        "model": "Model_6",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Awesome_Shoes",
+        "price": 512.48,
+        "brand": "Levi's",
+        "model": "Model_8",
+        "category": "Automotive"
+    },
+    {
+        "name": "Phone_Fantastic",
+        "price": 655.15,
+        "brand": "Adidas",
+        "model": "Model_1",
+        "category": "Electronics"
+    },
+    {
+        "name": "Book_Best",
+        "price": 880.05,
+        "brand": "BMW",
+        "model": "Model_8",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Cool_Headphones",
+        "price": 564.93,
+        "brand": "Amazon Kindle",
+        "model": "Model_4",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Camera_Fantastic",
+        "price": 485.43,
+        "brand": "AmazonBasics",
+        "model": "Model_5",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Toy_Best",
+        "price": 129.42,
+        "brand": "BMW",
+        "model": "Model_2",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Cool_Shoes",
+        "price": 682.08,
+        "brand": "Nike",
+        "model": "Model_4",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Fantastic_Pet Supply",
+        "price": 500.88,
+        "brand": "Samsung",
+        "model": "Model_1",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Pet Supply_Cool",
+        "price": 711.44,
+        "brand": "Adidas",
+        "model": "Model_4",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Phone_Awesome",
+        "price": 520.06,
+        "brand": "Amazon Kindle",
+        "model": "Model_2",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Tool_Superb",
+        "price": 897.28,
+        "brand": "Samsung",
+        "model": "Model_10",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Phone_Best",
+        "price": 809.61,
+        "brand": "Fitbit",
+        "model": "Model_7",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Cool_Camera",
+        "price": 328.63,
+        "brand": "Maybelline",
+        "model": "Model_3",
+        "category": "Electronics"
+    },
+    {
+        "name": "Book_Awesome",
+        "price": 12.51,
+        "brand": "Samsung",
+        "model": "Model_5",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Book_Superb",
+        "price": 923.0,
+        "brand": "BMW",
+        "model": "Model_10",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Awesome_Laptop",
+        "price": 452.23,
+        "brand": "Nike",
+        "model": "Model_9",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Awesome_Tool",
+        "price": 721.77,
+        "brand": "Nike",
+        "model": "Model_2",
+        "category": "Electronics"
+    },
+    {
+        "name": "Camera_Cool",
+        "price": 528.71,
+        "brand": "Nike",
+        "model": "Model_7",
+        "category": "Automotive"
+    },
+    {
+        "name": "Best_Pet Supply",
+        "price": 76.69,
+        "brand": "Levi's",
+        "model": "Model_7",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Fantastic_Pet Supply",
+        "price": 65.56,
+        "brand": "Adidas",
+        "model": "Model_7",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Superb_Watch",
+        "price": 716.26,
+        "brand": "Samsung",
+        "model": "Model_10",
+        "category": "Automotive"
+    },
+    {
+        "name": "Dress_Fantastic",
+        "price": 883.75,
+        "brand": "Nike",
+        "model": "Model_1",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Awesome_Toy",
+        "price": 752.9,
+        "brand": "LEGO",
+        "model": "Model_2",
+        "category": "Automotive"
+    },
+    {
+        "name": "Awesome_Phone",
+        "price": 82.94,
+        "brand": "Maybelline",
+        "model": "Model_6",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Superb_Watch",
+        "price": 600.98,
+        "brand": "Amazon Kindle",
+        "model": "Model_5",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Awesome_Book",
+        "price": 654.73,
+        "brand": "LEGO",
+        "model": "Model_1",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Dress_Cool",
+        "price": 704.65,
+        "brand": "LEGO",
+        "model": "Model_2",
+        "category": "Electronics"
+    },
+    {
+        "name": "Toy_Cool",
+        "price": 568.17,
+        "brand": "Fitbit",
+        "model": "Model_5",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Book_Fantastic",
+        "price": 594.18,
+        "brand": "Maybelline",
+        "model": "Model_10",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Laptop_Cool",
+        "price": 880.77,
+        "brand": "Maybelline",
+        "model": "Model_4",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Tool_Best",
+        "price": 764.95,
+        "brand": "Sony",
+        "model": "Model_2",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Superb_Dress",
+        "price": 389.68,
+        "brand": "Fitbit",
+        "model": "Model_6",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Camera_Awesome",
+        "price": 552.32,
+        "brand": "Sony",
+        "model": "Model_4",
+        "category": "Electronics"
+    },
+    {
+        "name": "Superb_Tool",
+        "price": 564.86,
+        "brand": "Maybelline",
+        "model": "Model_6",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Shirt_Cool",
+        "price": 162.69,
+        "brand": "BMW",
+        "model": "Model_8",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Best_Pet Supply",
+        "price": 939.28,
+        "brand": "LEGO",
+        "model": "Model_5",
+        "category": "Electronics"
+    },
+    {
+        "name": "Watch_Awesome",
+        "price": 117.4,
+        "brand": "Fitbit",
+        "model": "Model_3",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Watch_Cool",
+        "price": 713.38,
+        "brand": "Levi's",
+        "model": "Model_7",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Toy_Best",
+        "price": 661.39,
+        "brand": "Adidas",
+        "model": "Model_7",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Superb_Headphones",
+        "price": 209.07,
+        "brand": "Sony",
+        "model": "Model_3",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Cool_Tool",
+        "price": 584.98,
+        "brand": "Samsung",
+        "model": "Model_2",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Laptop_Superb",
+        "price": 28.21,
+        "brand": "Fitbit",
+        "model": "Model_5",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Dress_Best",
+        "price": 461.4,
+        "brand": "BMW",
+        "model": "Model_6",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Best_Pet Supply",
+        "price": 988.94,
+        "brand": "Levi's",
+        "model": "Model_5",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Watch_Best",
+        "price": 14.73,
+        "brand": "Fitbit",
+        "model": "Model_10",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Watch_Awesome",
+        "price": 284.06,
+        "brand": "Levi's",
+        "model": "Model_7",
+        "category": "Automotive"
+    },
+    {
+        "name": "Cool_Toy",
+        "price": 190.89,
+        "brand": "Nike",
+        "model": "Model_1",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Book_Awesome",
+        "price": 742.07,
+        "brand": "Levi's",
+        "model": "Model_10",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Shoes_Fantastic",
+        "price": 649.73,
+        "brand": "LEGO",
+        "model": "Model_1",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Superb_Phone",
+        "price": 431.78,
+        "brand": "Adidas",
+        "model": "Model_4",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Awesome_Watch",
+        "price": 822.77,
+        "brand": "Fitbit",
+        "model": "Model_5",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Headphones_Superb",
+        "price": 419.43,
+        "brand": "BMW",
+        "model": "Model_10",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Laptop_Superb",
+        "price": 391.83,
+        "brand": "Samsung",
+        "model": "Model_1",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Toy_Fantastic",
+        "price": 267.9,
+        "brand": "Amazon Kindle",
+        "model": "Model_9",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Best_Shoes",
+        "price": 285.88,
+        "brand": "Levi's",
+        "model": "Model_3",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Book_Superb",
+        "price": 873.79,
+        "brand": "Maybelline",
+        "model": "Model_3",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Best_Headphones",
+        "price": 803.08,
+        "brand": "Sony",
+        "model": "Model_6",
+        "category": "Sports & Outdoors"
+    },
+    {
+        "name": "Shirt_Fantastic",
+        "price": 643.23,
+        "brand": "Adidas",
+        "model": "Model_7",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Fantastic_Watch",
+        "price": 426.94,
+        "brand": "Fitbit",
+        "model": "Model_5",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Dress_Awesome",
+        "price": 904.23,
+        "brand": "Samsung",
+        "model": "Model_7",
+        "category": "Toys & Games"
+    },
+    {
+        "name": "Tool_Best",
+        "price": 792.27,
+        "brand": "Sony",
+        "model": "Model_1",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Pet Supply_Superb",
+        "price": 713.88,
+        "brand": "Fitbit",
+        "model": "Model_10",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Cool_Toy",
+        "price": 927.36,
+        "brand": "Apple",
+        "model": "Model_8",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Fantastic_Pet Supply",
+        "price": 58.17,
+        "brand": "Fitbit",
+        "model": "Model_5",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Awesome_Toy",
+        "price": 454.65,
+        "brand": "AmazonBasics",
+        "model": "Model_4",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Phone_Awesome",
+        "price": 351.28,
+        "brand": "Fitbit",
+        "model": "Model_6",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Toy_Fantastic",
+        "price": 118.44,
+        "brand": "Amazon Kindle",
+        "model": "Model_5",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Fantastic_Dress",
+        "price": 956.22,
+        "brand": "Apple",
+        "model": "Model_3",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Awesome_Toy",
+        "price": 620.9,
+        "brand": "Adidas",
+        "model": "Model_4",
+        "category": "Health & Beauty"
+    },
+    {
+        "name": "Superb_Watch",
+        "price": 947.93,
+        "brand": "BMW",
+        "model": "Model_4",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Pet Supply_Best",
+        "price": 358.89,
+        "brand": "LEGO",
+        "model": "Model_9",
+        "category": "Jewelry & Watches"
+    },
+    {
+        "name": "Dress_Superb",
+        "price": 864.82,
+        "brand": "Sony",
+        "model": "Model_5",
+        "category": "Automotive"
+    },
+    {
+        "name": "Shoes_Superb",
+        "price": 177.26,
+        "brand": "AmazonBasics",
+        "model": "Model_6",
+        "category": "Clothing & Accessories"
+    },
+    {
+        "name": "Headphones_Superb",
+        "price": 736.22,
+        "brand": "Levi's",
+        "model": "Model_3",
+        "category": "Home & Kitchen"
+    },
+    {
+        "name": "Tool_Awesome",
+        "price": 94.35,
+        "brand": "LEGO",
+        "model": "Model_9",
+        "category": "Books & Audible"
+    },
+    {
+        "name": "Camera_Best",
+        "price": 726.22,
+        "brand": "Maybelline",
+        "model": "Model_8",
+        "category": "Automotive"
+    },
+    {
+        "name": "Cool_Book",
+        "price": 159.27,
+        "brand": "LEGO",
+        "model": "Model_4",
+        "category": "Pets Supplies"
+    },
+    {
+        "name": "Tool_Best",
+        "price": 749.88,
+        "brand": "Apple",
+        "model": "Model_4",
+        "category": "Sports & Outdoors"
+    }
+]

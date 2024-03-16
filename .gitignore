@@ -1,0 +1,10 @@
+diagram-pipeline.ipynb
+diagram*.py
+*.drawio
+
+mock_data.ipynb
+test_connect.ipynb
+pg_data
+
+**__pycache__
+**.DS_Store

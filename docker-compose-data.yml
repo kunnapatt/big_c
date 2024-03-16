@@ -1,0 +1,16 @@
+services:
+  website_a:
+    image: api
+    environment:
+      PORT: 8000
+      WEBSITE: "website_a"
+    ports:
+    - 8001:8000
+
+  website_b:
+    image: api
+    environment:
+      PORT: 8000
+      WEBSITE: "website_b"
+    ports:
+    - 8002:8000

@@ -1,0 +1,25 @@
+services:
+ 
+  db:
+    image: postgres
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      PGUSER: postgres
+      POSTGRES_PASSWORD: admin1234
+    volumes:
+    - ./pg_data:/var/lib/postgresql/data
+    ports:
+      - 5431:5432
+
+  web:
+    image: analytics
+    environment:
+      PG_USER: postgres
+      PG_PW: admin1234
+      PG_DB_NAME: postgres
+      PG_HOST: "db"
+    ports:
+    - 8501:8501
+    depends_on:
+      - db  # Depend on the PostgreSQL service
